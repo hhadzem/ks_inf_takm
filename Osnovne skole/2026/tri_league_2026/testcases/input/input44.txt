@@ -1,0 +1,8 @@
+3
+PgxVI
+hMNYRFmVMR
+rsKTMAhSfx
+3
+hMNYRFmVMR - PgxVI - rsKTMAhSfx : 2 - 1 - 2
+rsKTMAhSfx - PgxVI - hMNYRFmVMR : 12 - 12 - 40
+PgxVI - hMNYRFmVMR - rsKTMAhSfx : 12 - 12 - 11

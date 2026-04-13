@@ -1,0 +1,17 @@
+4
+L
+P
+Uns
+jKiIQEDeJXTMN
+11
+Uns - L - jKiIQEDeJXTMN : 15 - 10 - 5
+Uns - L - P : 0 - 1 - 2
+L - P - Uns : 6 - 16 - 36
+L - P - jKiIQEDeJXTMN : 28 - 9 - 2
+L - Uns - jKiIQEDeJXTMN : 37 - 0 - 10
+jKiIQEDeJXTMN - L - Uns : 0 - 9 - 1
+P - L - jKiIQEDeJXTMN : 6 - 15 - 13
+jKiIQEDeJXTMN - P - Uns : 0 - 8 - 7
+jKiIQEDeJXTMN - L - P : 16 - 27 - 13
+Uns - P - jKiIQEDeJXTMN : 5 - 2 - 1
+P - L - Uns : 26 - 29 - 25

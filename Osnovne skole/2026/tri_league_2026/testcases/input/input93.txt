@@ -1,0 +1,16 @@
+4
+JKaJBvweNk
+fSxpxZmbwSyYYtku
+gVOysZpnjeFlkOS
+tDlvnYLwhRs
+10
+fSxpxZmbwSyYYtku - gVOysZpnjeFlkOS - tDlvnYLwhRs : 0 - 1 - 2
+tDlvnYLwhRs - fSxpxZmbwSyYYtku - gVOysZpnjeFlkOS : 387 - 114 - 182
+fSxpxZmbwSyYYtku - JKaJBvweNk - gVOysZpnjeFlkOS : 424 - 79 - 91
+fSxpxZmbwSyYYtku - JKaJBvweNk - tDlvnYLwhRs : 444 - 163 - 162
+gVOysZpnjeFlkOS - JKaJBvweNk - fSxpxZmbwSyYYtku : 426 - 118 - 455
+JKaJBvweNk - fSxpxZmbwSyYYtku - tDlvnYLwhRs : 241 - 212 - 419
+tDlvnYLwhRs - JKaJBvweNk - gVOysZpnjeFlkOS : 213 - 54 - 41
+gVOysZpnjeFlkOS - JKaJBvweNk - tDlvnYLwhRs : 133 - 185 - 278
+JKaJBvweNk - gVOysZpnjeFlkOS - tDlvnYLwhRs : 425 - 111 - 80
+tDlvnYLwhRs - JKaJBvweNk - fSxpxZmbwSyYYtku : 282 - 21 - 427

@@ -1,0 +1,90 @@
+8
+FXmHOU
+FdCoARHIQtnUApzkZvtC
+Qa
+klmyJoXIoN
+ovCQhaKAgCjVo
+wXiTLPqSqusHRf
+wkSpWBEJVfLl
+xHIhSjYsnpgTzZDlkQv
+80
+wkSpWBEJVfLl - Qa - ovCQhaKAgCjVo : 0 - 0 - 0
+Qa - wXiTLPqSqusHRf - wkSpWBEJVfLl : 1 - 0 - 1
+FXmHOU - Qa - wXiTLPqSqusHRf : 2 - 2 - 2
+wXiTLPqSqusHRf - FXmHOU - xHIhSjYsnpgTzZDlkQv : 3 - 3 - 3
+klmyJoXIoN - Qa - ovCQhaKAgCjVo : 2 - 0 - 3
+ovCQhaKAgCjVo - FXmHOU - FdCoARHIQtnUApzkZvtC : 3 - 0 - 2
+FdCoARHIQtnUApzkZvtC - FXmHOU - wXiTLPqSqusHRf : 0 - 0 - 0
+FXmHOU - klmyJoXIoN - xHIhSjYsnpgTzZDlkQv : 1 - 1 - 1
+klmyJoXIoN - FdCoARHIQtnUApzkZvtC - xHIhSjYsnpgTzZDlkQv : 0 - 0 - 0
+FXmHOU - wkSpWBEJVfLl - xHIhSjYsnpgTzZDlkQv : 2 - 2 - 2
+Qa - FdCoARHIQtnUApzkZvtC - wXiTLPqSqusHRf : 3 - 3 - 0
+xHIhSjYsnpgTzZDlkQv - klmyJoXIoN - wXiTLPqSqusHRf : 3 - 0 - 0
+xHIhSjYsnpgTzZDlkQv - Qa - klmyJoXIoN : 0 - 0 - 0
+wkSpWBEJVfLl - FXmHOU - wXiTLPqSqusHRf : 3 - 2 - 1
+Qa - wkSpWBEJVfLl - xHIhSjYsnpgTzZDlkQv : 0 - 0 - 0
+FXmHOU - Qa - ovCQhaKAgCjVo : 1 - 1 - 0
+Qa - ovCQhaKAgCjVo - xHIhSjYsnpgTzZDlkQv : 2 - 2 - 2
+wkSpWBEJVfLl - FdCoARHIQtnUApzkZvtC - klmyJoXIoN : 1 - 1 - 1
+wkSpWBEJVfLl - klmyJoXIoN - ovCQhaKAgCjVo : 2 - 2 - 3
+ovCQhaKAgCjVo - wXiTLPqSqusHRf - wkSpWBEJVfLl : 0 - 0 - 0
+ovCQhaKAgCjVo - FXmHOU - klmyJoXIoN : 3 - 2 - 0
+Qa - ovCQhaKAgCjVo - wXiTLPqSqusHRf : 2 - 2 - 2
+wXiTLPqSqusHRf - FdCoARHIQtnUApzkZvtC - klmyJoXIoN : 0 - 0 - 0
+wkSpWBEJVfLl - FdCoARHIQtnUApzkZvtC - wXiTLPqSqusHRf : 3 - 3 - 3
+Qa - klmyJoXIoN - xHIhSjYsnpgTzZDlkQv : 0 - 0 - 0
+klmyJoXIoN - FdCoARHIQtnUApzkZvtC - ovCQhaKAgCjVo : 1 - 1 - 1
+xHIhSjYsnpgTzZDlkQv - FXmHOU - ovCQhaKAgCjVo : 3 - 3 - 2
+ovCQhaKAgCjVo - wXiTLPqSqusHRf - xHIhSjYsnpgTzZDlkQv : 3 - 1 - 2
+wXiTLPqSqusHRf - FXmHOU - wkSpWBEJVfLl : 2 - 2 - 2
+klmyJoXIoN - Qa - wkSpWBEJVfLl : 1 - 1 - 1
+wkSpWBEJVfLl - FXmHOU - FdCoARHIQtnUApzkZvtC : 3 - 3 - 1
+ovCQhaKAgCjVo - FdCoARHIQtnUApzkZvtC - wkSpWBEJVfLl : 1 - 1 - 1
+wXiTLPqSqusHRf - klmyJoXIoN - xHIhSjYsnpgTzZDlkQv : 1 - 0 - 0
+wXiTLPqSqusHRf - FXmHOU - Qa : 0 - 0 - 2
+wXiTLPqSqusHRf - FXmHOU - FdCoARHIQtnUApzkZvtC : 3 - 2 - 0
+wkSpWBEJVfLl - Qa - wXiTLPqSqusHRf : 3 - 3 - 3
+wkSpWBEJVfLl - ovCQhaKAgCjVo - xHIhSjYsnpgTzZDlkQv : 2 - 2 - 2
+ovCQhaKAgCjVo - FXmHOU - Qa : 0 - 2 - 2
+xHIhSjYsnpgTzZDlkQv - FXmHOU - wXiTLPqSqusHRf : 1 - 1 - 1
+Qa - FXmHOU - wXiTLPqSqusHRf : 2 - 2 - 2
+FdCoARHIQtnUApzkZvtC - FXmHOU - Qa : 1 - 3 - 1
+ovCQhaKAgCjVo - FdCoARHIQtnUApzkZvtC - xHIhSjYsnpgTzZDlkQv : 3 - 3 - 3
+wkSpWBEJVfLl - wXiTLPqSqusHRf - xHIhSjYsnpgTzZDlkQv : 2 - 2 - 3
+FdCoARHIQtnUApzkZvtC - wXiTLPqSqusHRf - wkSpWBEJVfLl : 1 - 1 - 1
+wXiTLPqSqusHRf - Qa - xHIhSjYsnpgTzZDlkQv : 3 - 3 - 3
+FXmHOU - wXiTLPqSqusHRf - wkSpWBEJVfLl : 0 - 0 - 0
+wXiTLPqSqusHRf - ovCQhaKAgCjVo - xHIhSjYsnpgTzZDlkQv : 3 - 3 - 3
+wXiTLPqSqusHRf - klmyJoXIoN - ovCQhaKAgCjVo : 0 - 2 - 1
+wkSpWBEJVfLl - FdCoARHIQtnUApzkZvtC - ovCQhaKAgCjVo : 1 - 1 - 1
+Qa - klmyJoXIoN - wXiTLPqSqusHRf : 2 - 2 - 2
+FXmHOU - ovCQhaKAgCjVo - xHIhSjYsnpgTzZDlkQv : 1 - 3 - 3
+klmyJoXIoN - FXmHOU - ovCQhaKAgCjVo : 2 - 0 - 1
+Qa - FdCoARHIQtnUApzkZvtC - xHIhSjYsnpgTzZDlkQv : 3 - 0 - 1
+FdCoARHIQtnUApzkZvtC - wkSpWBEJVfLl - xHIhSjYsnpgTzZDlkQv : 3 - 3 - 3
+wXiTLPqSqusHRf - FXmHOU - ovCQhaKAgCjVo : 1 - 1 - 2
+wXiTLPqSqusHRf - Qa - klmyJoXIoN : 1 - 1 - 1
+ovCQhaKAgCjVo - klmyJoXIoN - wXiTLPqSqusHRf : 2 - 2 - 2
+wXiTLPqSqusHRf - Qa - wkSpWBEJVfLl : 3 - 3 - 3
+klmyJoXIoN - FdCoARHIQtnUApzkZvtC - Qa : 0 - 0 - 0
+xHIhSjYsnpgTzZDlkQv - klmyJoXIoN - ovCQhaKAgCjVo : 0 - 0 - 0
+wkSpWBEJVfLl - Qa - klmyJoXIoN : 0 - 0 - 0
+xHIhSjYsnpgTzZDlkQv - ovCQhaKAgCjVo - wXiTLPqSqusHRf : 0 - 1 - 1
+xHIhSjYsnpgTzZDlkQv - FdCoARHIQtnUApzkZvtC - Qa : 2 - 2 - 2
+klmyJoXIoN - FdCoARHIQtnUApzkZvtC - wXiTLPqSqusHRf : 1 - 1 - 1
+ovCQhaKAgCjVo - FXmHOU - wkSpWBEJVfLl : 2 - 1 - 0
+FXmHOU - wXiTLPqSqusHRf - xHIhSjYsnpgTzZDlkQv : 1 - 0 - 3
+wXiTLPqSqusHRf - Qa - ovCQhaKAgCjVo : 0 - 0 - 0
+Qa - FXmHOU - klmyJoXIoN : 1 - 3 - 3
+FdCoARHIQtnUApzkZvtC - klmyJoXIoN - xHIhSjYsnpgTzZDlkQv : 1 - 1 - 1
+xHIhSjYsnpgTzZDlkQv - Qa - wXiTLPqSqusHRf : 3 - 3 - 0
+ovCQhaKAgCjVo - klmyJoXIoN - wkSpWBEJVfLl : 2 - 2 - 0
+FXmHOU - ovCQhaKAgCjVo - wkSpWBEJVfLl : 1 - 3 - 3
+wXiTLPqSqusHRf - FdCoARHIQtnUApzkZvtC - Qa : 1 - 1 - 0
+Qa - FXmHOU - wkSpWBEJVfLl : 3 - 3 - 3
+FdCoARHIQtnUApzkZvtC - FXmHOU - klmyJoXIoN : 2 - 2 - 2
+wkSpWBEJVfLl - FdCoARHIQtnUApzkZvtC - Qa : 2 - 2 - 2
+Qa - FdCoARHIQtnUApzkZvtC - wkSpWBEJVfLl : 2 - 2 - 2
+Qa - FXmHOU - ovCQhaKAgCjVo : 3 - 2 - 0
+Qa - FXmHOU - xHIhSjYsnpgTzZDlkQv : 0 - 0 - 0
+ovCQhaKAgCjVo - Qa - klmyJoXIoN : 1 - 3 - 2

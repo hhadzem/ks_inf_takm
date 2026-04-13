@@ -1,0 +1,12 @@
+4
+BEsGJLxVGeBS
+S
+hFOd
+vPKFgpIa
+6
+vPKFgpIa - BEsGJLxVGeBS - hFOd : 11 - 11 - 32
+BEsGJLxVGeBS - S - vPKFgpIa : 29 - 36 - 38
+hFOd - BEsGJLxVGeBS - vPKFgpIa : 33 - 31 - 13
+vPKFgpIa - BEsGJLxVGeBS - S : 22 - 26 - 36
+BEsGJLxVGeBS - hFOd - vPKFgpIa : 28 - 15 - 15
+S - BEsGJLxVGeBS - hFOd : 22 - 15 - 15

@@ -1,0 +1,49 @@
+7
+PKcq
+gcgUyvWrXvzYirSjMbJ
+hovrvuGNyCNrnaQlLw
+qR
+ryPhbnyGTJDqMJgKx
+smslNaAdOevB
+wEpWkrYie
+40
+PKcq - gcgUyvWrXvzYirSjMbJ - qR : 10 - 11 - 11
+qR - gcgUyvWrXvzYirSjMbJ - wEpWkrYie : 40 - 16 - 33
+ryPhbnyGTJDqMJgKx - hovrvuGNyCNrnaQlLw - smslNaAdOevB : 28 - 22 - 28
+smslNaAdOevB - gcgUyvWrXvzYirSjMbJ - wEpWkrYie : 2 - 9 - 9
+PKcq - hovrvuGNyCNrnaQlLw - wEpWkrYie : 9 - 33 - 28
+ryPhbnyGTJDqMJgKx - gcgUyvWrXvzYirSjMbJ - wEpWkrYie : 1 - 2 - 2
+hovrvuGNyCNrnaQlLw - gcgUyvWrXvzYirSjMbJ - ryPhbnyGTJDqMJgKx : 7 - 12 - 35
+wEpWkrYie - gcgUyvWrXvzYirSjMbJ - smslNaAdOevB : 33 - 24 - 36
+ryPhbnyGTJDqMJgKx - qR - wEpWkrYie : 6 - 16 - 10
+qR - ryPhbnyGTJDqMJgKx - smslNaAdOevB : 27 - 2 - 12
+smslNaAdOevB - gcgUyvWrXvzYirSjMbJ - ryPhbnyGTJDqMJgKx : 20 - 1 - 20
+gcgUyvWrXvzYirSjMbJ - PKcq - ryPhbnyGTJDqMJgKx : 33 - 33 - 23
+PKcq - qR - ryPhbnyGTJDqMJgKx : 22 - 23 - 15
+hovrvuGNyCNrnaQlLw - qR - ryPhbnyGTJDqMJgKx : 35 - 39 - 23
+ryPhbnyGTJDqMJgKx - PKcq - smslNaAdOevB : 40 - 28 - 7
+wEpWkrYie - ryPhbnyGTJDqMJgKx - smslNaAdOevB : 16 - 5 - 16
+qR - hovrvuGNyCNrnaQlLw - ryPhbnyGTJDqMJgKx : 11 - 16 - 6
+qR - PKcq - gcgUyvWrXvzYirSjMbJ : 34 - 0 - 34
+smslNaAdOevB - PKcq - gcgUyvWrXvzYirSjMbJ : 29 - 1 - 10
+PKcq - gcgUyvWrXvzYirSjMbJ - hovrvuGNyCNrnaQlLw : 0 - 2 - 2
+wEpWkrYie - gcgUyvWrXvzYirSjMbJ - ryPhbnyGTJDqMJgKx : 0 - 7 - 7
+smslNaAdOevB - PKcq - wEpWkrYie : 5 - 5 - 2
+hovrvuGNyCNrnaQlLw - PKcq - ryPhbnyGTJDqMJgKx : 3 - 19 - 19
+qR - PKcq - ryPhbnyGTJDqMJgKx : 6 - 32 - 32
+qR - gcgUyvWrXvzYirSjMbJ - hovrvuGNyCNrnaQlLw : 3 - 37 - 39
+hovrvuGNyCNrnaQlLw - gcgUyvWrXvzYirSjMbJ - smslNaAdOevB : 18 - 23 - 7
+PKcq - ryPhbnyGTJDqMJgKx - smslNaAdOevB : 16 - 25 - 36
+PKcq - hovrvuGNyCNrnaQlLw - smslNaAdOevB : 27 - 33 - 22
+gcgUyvWrXvzYirSjMbJ - ryPhbnyGTJDqMJgKx - smslNaAdOevB : 5 - 8 - 8
+wEpWkrYie - PKcq - smslNaAdOevB : 19 - 33 - 1
+smslNaAdOevB - hovrvuGNyCNrnaQlLw - qR : 5 - 17 - 30
+PKcq - gcgUyvWrXvzYirSjMbJ - ryPhbnyGTJDqMJgKx : 11 - 11 - 3
+qR - hovrvuGNyCNrnaQlLw - smslNaAdOevB : 36 - 19 - 36
+hovrvuGNyCNrnaQlLw - PKcq - qR : 19 - 31 - 31
+hovrvuGNyCNrnaQlLw - ryPhbnyGTJDqMJgKx - smslNaAdOevB : 3 - 24 - 24
+hovrvuGNyCNrnaQlLw - smslNaAdOevB - wEpWkrYie : 20 - 5 - 4
+hovrvuGNyCNrnaQlLw - qR - smslNaAdOevB : 37 - 37 - 18
+smslNaAdOevB - qR - wEpWkrYie : 13 - 13 - 10
+wEpWkrYie - hovrvuGNyCNrnaQlLw - smslNaAdOevB : 4 - 33 - 7
+ryPhbnyGTJDqMJgKx - PKcq - qR : 2 - 18 - 18

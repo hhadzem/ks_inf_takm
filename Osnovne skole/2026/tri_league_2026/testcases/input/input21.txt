@@ -1,0 +1,18 @@
+4
+AWHNntOfy
+C
+MbSHeji
+Um
+12
+AWHNntOfy - MbSHeji - Um : 1 - 1 - 12
+MbSHeji - AWHNntOfy - Um : 19 - 9 - 25
+Um - AWHNntOfy - MbSHeji : 5 - 5 - 6
+AWHNntOfy - C - MbSHeji : 40 - 23 - 25
+MbSHeji - C - Um : 14 - 36 - 14
+Um - C - MbSHeji : 1 - 0 - 34
+AWHNntOfy - C - Um : 7 - 7 - 18
+C - AWHNntOfy - MbSHeji : 2 - 28 - 2
+C - AWHNntOfy - Um : 4 - 15 - 4
+Um - AWHNntOfy - C : 0 - 0 - 8
+C - MbSHeji - Um : 32 - 21 - 31
+MbSHeji - AWHNntOfy - C : 33 - 38 - 33

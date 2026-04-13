@@ -1,0 +1,92 @@
+10
+DomCBFjasgd
+EJogYSsajkVgYyjme
+IkefUFUYPSmWPWUub
+JbkVKuEGFxxQfh
+MmsjbHnHIfsbL
+Mswo
+W
+fr
+pOhUzQljPuAPa
+vmrl
+80
+W - IkefUFUYPSmWPWUub - Mswo : 66 - 291 - 133
+MmsjbHnHIfsbL - EJogYSsajkVgYyjme - W : 360 - 146 - 349
+MmsjbHnHIfsbL - fr - pOhUzQljPuAPa : 124 - 232 - 205
+pOhUzQljPuAPa - JbkVKuEGFxxQfh - vmrl : 47 - 34 - 22
+EJogYSsajkVgYyjme - JbkVKuEGFxxQfh - fr : 275 - 257 - 370
+fr - JbkVKuEGFxxQfh - Mswo : 92 - 10 - 5
+pOhUzQljPuAPa - MmsjbHnHIfsbL - vmrl : 109 - 320 - 312
+pOhUzQljPuAPa - DomCBFjasgd - W : 240 - 468 - 226
+Mswo - EJogYSsajkVgYyjme - JbkVKuEGFxxQfh : 411 - 308 - 274
+MmsjbHnHIfsbL - W - pOhUzQljPuAPa : 263 - 36 - 333
+fr - EJogYSsajkVgYyjme - MmsjbHnHIfsbL : 76 - 92 - 81
+IkefUFUYPSmWPWUub - DomCBFjasgd - JbkVKuEGFxxQfh : 348 - 341 - 162
+vmrl - DomCBFjasgd - Mswo : 341 - 21 - 126
+JbkVKuEGFxxQfh - EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub : 106 - 147 - 180
+JbkVKuEGFxxQfh - EJogYSsajkVgYyjme - pOhUzQljPuAPa : 272 - 259 - 316
+EJogYSsajkVgYyjme - W - vmrl : 17 - 36 - 31
+IkefUFUYPSmWPWUub - DomCBFjasgd - fr : 39 - 10 - 134
+IkefUFUYPSmWPWUub - EJogYSsajkVgYyjme - fr : 79 - 21 - 59
+fr - EJogYSsajkVgYyjme - W : 111 - 351 - 93
+IkefUFUYPSmWPWUub - MmsjbHnHIfsbL - vmrl : 78 - 69 - 70
+fr - EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub : 359 - 42 - 357
+DomCBFjasgd - IkefUFUYPSmWPWUub - Mswo : 28 - 17 - 8
+Mswo - JbkVKuEGFxxQfh - fr : 47 - 123 - 130
+Mswo - JbkVKuEGFxxQfh - MmsjbHnHIfsbL : 321 - 465 - 86
+DomCBFjasgd - EJogYSsajkVgYyjme - W : 263 - 232 - 284
+DomCBFjasgd - EJogYSsajkVgYyjme - Mswo : 219 - 101 - 35
+DomCBFjasgd - IkefUFUYPSmWPWUub - JbkVKuEGFxxQfh : 390 - 343 - 296
+fr - EJogYSsajkVgYyjme - vmrl : 406 - 33 - 217
+W - pOhUzQljPuAPa - vmrl : 382 - 246 - 272
+pOhUzQljPuAPa - Mswo - vmrl : 136 - 221 - 299
+DomCBFjasgd - JbkVKuEGFxxQfh - W : 33 - 134 - 310
+vmrl - JbkVKuEGFxxQfh - Mswo : 119 - 30 - 153
+vmrl - JbkVKuEGFxxQfh - pOhUzQljPuAPa : 129 - 348 - 179
+IkefUFUYPSmWPWUub - EJogYSsajkVgYyjme - Mswo : 88 - 418 - 184
+IkefUFUYPSmWPWUub - pOhUzQljPuAPa - vmrl : 391 - 293 - 426
+W - MmsjbHnHIfsbL - fr : 320 - 365 - 357
+vmrl - fr - pOhUzQljPuAPa : 358 - 367 - 310
+DomCBFjasgd - EJogYSsajkVgYyjme - vmrl : 114 - 316 - 307
+vmrl - DomCBFjasgd - EJogYSsajkVgYyjme : 463 - 311 - 355
+W - JbkVKuEGFxxQfh - pOhUzQljPuAPa : 369 - 458 - 253
+IkefUFUYPSmWPWUub - W - pOhUzQljPuAPa : 97 - 404 - 91
+EJogYSsajkVgYyjme - DomCBFjasgd - JbkVKuEGFxxQfh : 186 - 140 - 79
+IkefUFUYPSmWPWUub - JbkVKuEGFxxQfh - pOhUzQljPuAPa : 23 - 335 - 244
+EJogYSsajkVgYyjme - DomCBFjasgd - vmrl : 93 - 15 - 82
+MmsjbHnHIfsbL - EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub : 76 - 32 - 41
+EJogYSsajkVgYyjme - fr - vmrl : 80 - 178 - 239
+fr - MmsjbHnHIfsbL - vmrl : 248 - 82 - 451
+W - EJogYSsajkVgYyjme - vmrl : 54 - 32 - 179
+vmrl - MmsjbHnHIfsbL - pOhUzQljPuAPa : 71 - 41 - 93
+pOhUzQljPuAPa - MmsjbHnHIfsbL - fr : 95 - 33 - 196
+DomCBFjasgd - JbkVKuEGFxxQfh - MmsjbHnHIfsbL : 207 - 202 - 213
+Mswo - pOhUzQljPuAPa - vmrl : 268 - 248 - 4
+DomCBFjasgd - JbkVKuEGFxxQfh - vmrl : 69 - 84 - 93
+fr - DomCBFjasgd - pOhUzQljPuAPa : 136 - 24 - 67
+MmsjbHnHIfsbL - W - fr : 28 - 224 - 147
+EJogYSsajkVgYyjme - DomCBFjasgd - fr : 26 - 299 - 171
+DomCBFjasgd - JbkVKuEGFxxQfh - fr : 126 - 392 - 469
+pOhUzQljPuAPa - IkefUFUYPSmWPWUub - fr : 130 - 128 - 135
+JbkVKuEGFxxQfh - W - pOhUzQljPuAPa : 212 - 78 - 117
+MmsjbHnHIfsbL - fr - vmrl : 133 - 302 - 86
+DomCBFjasgd - fr - vmrl : 407 - 6 - 408
+IkefUFUYPSmWPWUub - W - fr : 19 - 76 - 30
+JbkVKuEGFxxQfh - pOhUzQljPuAPa - vmrl : 378 - 122 - 230
+MmsjbHnHIfsbL - DomCBFjasgd - JbkVKuEGFxxQfh : 63 - 58 - 218
+EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub - Mswo : 129 - 325 - 301
+vmrl - MmsjbHnHIfsbL - W : 119 - 127 - 309
+JbkVKuEGFxxQfh - EJogYSsajkVgYyjme - fr : 271 - 87 - 284
+EJogYSsajkVgYyjme - JbkVKuEGFxxQfh - pOhUzQljPuAPa : 159 - 425 - 233
+W - EJogYSsajkVgYyjme - Mswo : 325 - 1 - 28
+MmsjbHnHIfsbL - IkefUFUYPSmWPWUub - Mswo : 67 - 207 - 221
+IkefUFUYPSmWPWUub - DomCBFjasgd - pOhUzQljPuAPa : 210 - 135 - 210
+EJogYSsajkVgYyjme - Mswo - fr : 243 - 73 - 195
+IkefUFUYPSmWPWUub - EJogYSsajkVgYyjme - MmsjbHnHIfsbL : 452 - 50 - 212
+vmrl - JbkVKuEGFxxQfh - MmsjbHnHIfsbL : 393 - 399 - 122
+fr - W - pOhUzQljPuAPa : 2 - 0 - 41
+IkefUFUYPSmWPWUub - DomCBFjasgd - vmrl : 163 - 48 - 140
+pOhUzQljPuAPa - DomCBFjasgd - EJogYSsajkVgYyjme : 36 - 392 - 310
+Mswo - IkefUFUYPSmWPWUub - W : 314 - 182 - 281
+EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub - pOhUzQljPuAPa : 275 - 269 - 314
+Mswo - EJogYSsajkVgYyjme - IkefUFUYPSmWPWUub : 398 - 400 - 397

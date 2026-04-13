@@ -1,0 +1,94 @@
+12
+ECgIbbNUh
+LkwXycZ
+QeJTyuMwsRZlhXWYCPvX
+UmsxLNhqBVVzBC
+bsmD
+dZvFRbwMB
+fFLiLBpOTMtkkzIxoBt
+fiqgRuLOnzgjghJGAFf
+fxTKFBvXilgstO
+pyHax
+q
+zR
+80
+zR - LkwXycZ - bsmD : 2 - 2 - 2
+fiqgRuLOnzgjghJGAFf - LkwXycZ - fFLiLBpOTMtkkzIxoBt : 0 - 3 - 2
+q - dZvFRbwMB - zR : 0 - 0 - 0
+LkwXycZ - QeJTyuMwsRZlhXWYCPvX - fxTKFBvXilgstO : 2 - 3 - 3
+fxTKFBvXilgstO - fFLiLBpOTMtkkzIxoBt - zR : 3 - 3 - 3
+fFLiLBpOTMtkkzIxoBt - dZvFRbwMB - pyHax : 2 - 2 - 2
+bsmD - LkwXycZ - UmsxLNhqBVVzBC : 0 - 0 - 0
+ECgIbbNUh - bsmD - dZvFRbwMB : 3 - 0 - 3
+bsmD - QeJTyuMwsRZlhXWYCPvX - q : 1 - 2 - 2
+zR - LkwXycZ - fxTKFBvXilgstO : 0 - 0 - 0
+bsmD - LkwXycZ - pyHax : 2 - 2 - 2
+q - pyHax - zR : 1 - 1 - 1
+zR - LkwXycZ - q : 3 - 3 - 3
+LkwXycZ - UmsxLNhqBVVzBC - zR : 0 - 0 - 0
+zR - QeJTyuMwsRZlhXWYCPvX - dZvFRbwMB : 2 - 2 - 2
+zR - UmsxLNhqBVVzBC - pyHax : 0 - 0 - 2
+zR - UmsxLNhqBVVzBC - fFLiLBpOTMtkkzIxoBt : 3 - 1 - 3
+q - ECgIbbNUh - QeJTyuMwsRZlhXWYCPvX : 3 - 3 - 3
+QeJTyuMwsRZlhXWYCPvX - ECgIbbNUh - fiqgRuLOnzgjghJGAFf : 3 - 3 - 3
+pyHax - dZvFRbwMB - fFLiLBpOTMtkkzIxoBt : 0 - 0 - 3
+QeJTyuMwsRZlhXWYCPvX - fiqgRuLOnzgjghJGAFf - q : 3 - 1 - 0
+LkwXycZ - dZvFRbwMB - fiqgRuLOnzgjghJGAFf : 0 - 0 - 0
+pyHax - LkwXycZ - fFLiLBpOTMtkkzIxoBt : 1 - 1 - 1
+q - dZvFRbwMB - fxTKFBvXilgstO : 3 - 3 - 3
+dZvFRbwMB - UmsxLNhqBVVzBC - fFLiLBpOTMtkkzIxoBt : 3 - 3 - 0
+dZvFRbwMB - LkwXycZ - fxTKFBvXilgstO : 2 - 2 - 0
+ECgIbbNUh - bsmD - fiqgRuLOnzgjghJGAFf : 2 - 1 - 2
+zR - QeJTyuMwsRZlhXWYCPvX - fiqgRuLOnzgjghJGAFf : 3 - 1 - 3
+zR - LkwXycZ - dZvFRbwMB : 1 - 0 - 3
+UmsxLNhqBVVzBC - dZvFRbwMB - fxTKFBvXilgstO : 1 - 1 - 1
+zR - fFLiLBpOTMtkkzIxoBt - q : 2 - 3 - 1
+bsmD - LkwXycZ - fFLiLBpOTMtkkzIxoBt : 3 - 3 - 3
+QeJTyuMwsRZlhXWYCPvX - fxTKFBvXilgstO - pyHax : 0 - 0 - 0
+fxTKFBvXilgstO - LkwXycZ - UmsxLNhqBVVzBC : 0 - 1 - 0
+fiqgRuLOnzgjghJGAFf - LkwXycZ - fxTKFBvXilgstO : 1 - 1 - 1
+q - fxTKFBvXilgstO - zR : 3 - 1 - 0
+fFLiLBpOTMtkkzIxoBt - q - zR : 2 - 1 - 3
+LkwXycZ - UmsxLNhqBVVzBC - bsmD : 1 - 0 - 2
+bsmD - LkwXycZ - q : 1 - 1 - 1
+ECgIbbNUh - LkwXycZ - UmsxLNhqBVVzBC : 1 - 3 - 0
+bsmD - pyHax - zR : 3 - 3 - 3
+fFLiLBpOTMtkkzIxoBt - ECgIbbNUh - pyHax : 1 - 1 - 1
+QeJTyuMwsRZlhXWYCPvX - bsmD - q : 2 - 2 - 2
+fiqgRuLOnzgjghJGAFf - LkwXycZ - bsmD : 1 - 1 - 1
+pyHax - fiqgRuLOnzgjghJGAFf - fxTKFBvXilgstO : 0 - 0 - 3
+zR - UmsxLNhqBVVzBC - fxTKFBvXilgstO : 3 - 3 - 3
+fxTKFBvXilgstO - fiqgRuLOnzgjghJGAFf - q : 1 - 1 - 1
+q - UmsxLNhqBVVzBC - bsmD : 3 - 3 - 3
+dZvFRbwMB - LkwXycZ - zR : 1 - 1 - 1
+zR - bsmD - fFLiLBpOTMtkkzIxoBt : 3 - 3 - 3
+UmsxLNhqBVVzBC - LkwXycZ - q : 1 - 1 - 1
+fFLiLBpOTMtkkzIxoBt - UmsxLNhqBVVzBC - bsmD : 3 - 3 - 3
+fiqgRuLOnzgjghJGAFf - dZvFRbwMB - fxTKFBvXilgstO : 3 - 0 - 1
+pyHax - ECgIbbNUh - fiqgRuLOnzgjghJGAFf : 2 - 0 - 3
+fFLiLBpOTMtkkzIxoBt - pyHax - zR : 3 - 1 - 2
+fxTKFBvXilgstO - ECgIbbNUh - pyHax : 0 - 3 - 3
+fiqgRuLOnzgjghJGAFf - bsmD - dZvFRbwMB : 1 - 1 - 0
+fiqgRuLOnzgjghJGAFf - bsmD - pyHax : 2 - 2 - 2
+zR - dZvFRbwMB - q : 3 - 3 - 2
+fFLiLBpOTMtkkzIxoBt - QeJTyuMwsRZlhXWYCPvX - fiqgRuLOnzgjghJGAFf : 0 - 0 - 0
+fFLiLBpOTMtkkzIxoBt - ECgIbbNUh - fiqgRuLOnzgjghJGAFf : 3 - 2 - 3
+LkwXycZ - dZvFRbwMB - fxTKFBvXilgstO : 0 - 3 - 3
+QeJTyuMwsRZlhXWYCPvX - bsmD - dZvFRbwMB : 2 - 3 - 1
+q - QeJTyuMwsRZlhXWYCPvX - pyHax : 3 - 2 - 1
+QeJTyuMwsRZlhXWYCPvX - ECgIbbNUh - fFLiLBpOTMtkkzIxoBt : 2 - 2 - 3
+zR - fFLiLBpOTMtkkzIxoBt - pyHax : 0 - 0 - 0
+fxTKFBvXilgstO - bsmD - pyHax : 0 - 2 - 1
+q - LkwXycZ - UmsxLNhqBVVzBC : 3 - 3 - 3
+zR - bsmD - fiqgRuLOnzgjghJGAFf : 1 - 2 - 0
+zR - bsmD - fxTKFBvXilgstO : 0 - 1 - 0
+UmsxLNhqBVVzBC - pyHax - zR : 3 - 1 - 3
+ECgIbbNUh - LkwXycZ - fFLiLBpOTMtkkzIxoBt : 0 - 2 - 1
+pyHax - LkwXycZ - QeJTyuMwsRZlhXWYCPvX : 1 - 1 - 1
+ECgIbbNUh - bsmD - zR : 2 - 2 - 2
+ECgIbbNUh - bsmD - pyHax : 1 - 2 - 2
+QeJTyuMwsRZlhXWYCPvX - ECgIbbNUh - dZvFRbwMB : 2 - 3 - 1
+bsmD - QeJTyuMwsRZlhXWYCPvX - fFLiLBpOTMtkkzIxoBt : 2 - 1 - 0
+fFLiLBpOTMtkkzIxoBt - ECgIbbNUh - bsmD : 3 - 3 - 3
+pyHax - QeJTyuMwsRZlhXWYCPvX - fFLiLBpOTMtkkzIxoBt : 2 - 2 - 2
+ECgIbbNUh - fFLiLBpOTMtkkzIxoBt - zR : 3 - 1 - 0

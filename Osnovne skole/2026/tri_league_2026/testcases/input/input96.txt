@@ -1,0 +1,8 @@
+3
+RED
+BLUE
+GREEN
+3
+RED - BLUE - GREEN : 5 - 3 - 1
+BLUE - GREEN - RED : 5 - 3 - 1
+GREEN - RED - BLUE : 5 - 3 - 1

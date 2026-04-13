@@ -1,0 +1,50 @@
+8
+IUKFFmoHFi
+MGF
+MOEIiM
+idZrPSizVwJweM
+l
+nbi
+soSUSVKGycjwrk
+uUcMr
+40
+nbi - IUKFFmoHFi - idZrPSizVwJweM : 10 - 36 - 10
+MOEIiM - MGF - nbi : 14 - 34 - 30
+l - MGF - soSUSVKGycjwrk : 40 - 40 - 32
+idZrPSizVwJweM - MOEIiM - uUcMr : 2 - 7 - 2
+uUcMr - MGF - soSUSVKGycjwrk : 16 - 0 - 0
+idZrPSizVwJweM - soSUSVKGycjwrk - uUcMr : 0 - 1 - 29
+MGF - idZrPSizVwJweM - uUcMr : 5 - 0 - 0
+idZrPSizVwJweM - IUKFFmoHFi - MGF : 25 - 3 - 2
+MOEIiM - nbi - uUcMr : 4 - 2 - 2
+nbi - MOEIiM - uUcMr : 35 - 22 - 22
+l - nbi - soSUSVKGycjwrk : 33 - 29 - 29
+MGF - l - nbi : 40 - 8 - 17
+uUcMr - MGF - nbi : 26 - 27 - 29
+idZrPSizVwJweM - l - uUcMr : 10 - 23 - 14
+MOEIiM - MGF - uUcMr : 16 - 26 - 35
+IUKFFmoHFi - idZrPSizVwJweM - l : 13 - 4 - 4
+l - idZrPSizVwJweM - soSUSVKGycjwrk : 8 - 0 - 4
+IUKFFmoHFi - MGF - l : 0 - 0 - 1
+MGF - MOEIiM - l : 9 - 20 - 35
+MOEIiM - IUKFFmoHFi - soSUSVKGycjwrk : 34 - 31 - 31
+MGF - IUKFFmoHFi - nbi : 22 - 24 - 21
+MGF - idZrPSizVwJweM - soSUSVKGycjwrk : 25 - 12 - 12
+MGF - IUKFFmoHFi - uUcMr : 4 - 33 - 4
+MGF - IUKFFmoHFi - idZrPSizVwJweM : 31 - 13 - 30
+soSUSVKGycjwrk - IUKFFmoHFi - MOEIiM : 15 - 15 - 29
+IUKFFmoHFi - l - nbi : 28 - 28 - 0
+idZrPSizVwJweM - MOEIiM - soSUSVKGycjwrk : 6 - 6 - 24
+nbi - MGF - MOEIiM : 12 - 31 - 22
+uUcMr - idZrPSizVwJweM - l : 5 - 14 - 5
+MOEIiM - MGF - idZrPSizVwJweM : 24 - 4 - 39
+idZrPSizVwJweM - IUKFFmoHFi - uUcMr : 39 - 22 - 34
+idZrPSizVwJweM - MGF - uUcMr : 5 - 5 - 33
+idZrPSizVwJweM - MOEIiM - l : 22 - 23 - 22
+nbi - MOEIiM - idZrPSizVwJweM : 13 - 13 - 15
+MGF - MOEIiM - idZrPSizVwJweM : 24 - 5 - 16
+l - IUKFFmoHFi - MGF : 0 - 0 - 1
+l - MGF - uUcMr : 33 - 30 - 30
+MOEIiM - idZrPSizVwJweM - l : 40 - 35 - 21
+IUKFFmoHFi - MOEIiM - nbi : 2 - 1 - 1
+uUcMr - idZrPSizVwJweM - soSUSVKGycjwrk : 39 - 12 - 25

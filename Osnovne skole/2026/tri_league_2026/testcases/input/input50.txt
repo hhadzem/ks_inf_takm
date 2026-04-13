@@ -1,0 +1,60 @@
+20
+BEbAcMnWDowmlm
+GBceObl
+JsJpQUxXhCUAJtLEF
+NevfLOMnuZxg
+PAGdbzlIPu
+QwZkPumpyImpYkiP
+RY
+SdtoDLB
+VCrZJsPciUjFkV
+YNBAIORLQTeLXq
+avQgxQPjWPvXKZCztTY
+cbFakWnECrWDkUvKhR
+ghKGoBzypwhoTgAlt
+hNGcZ
+lXSYwzNRUOUveftx
+nAIYrxGk
+qhJjJNhwfp
+rUyxeke
+t
+zKXmPrPVTGt
+38
+qhJjJNhwfp - JsJpQUxXhCUAJtLEF - t : 106 - 46 - 46
+BEbAcMnWDowmlm - RY - avQgxQPjWPvXKZCztTY : 1 - 15 - 1
+qhJjJNhwfp - BEbAcMnWDowmlm - ghKGoBzypwhoTgAlt : 12 - 13 - 12
+qhJjJNhwfp - QwZkPumpyImpYkiP - YNBAIORLQTeLXq : 60 - 60 - 120
+nAIYrxGk - avQgxQPjWPvXKZCztTY - lXSYwzNRUOUveftx : 63 - 63 - 12
+BEbAcMnWDowmlm - VCrZJsPciUjFkV - hNGcZ : 46 - 112 - 112
+YNBAIORLQTeLXq - GBceObl - t : 62 - 62 - 32
+BEbAcMnWDowmlm - cbFakWnECrWDkUvKhR - rUyxeke : 12 - 9 - 12
+cbFakWnECrWDkUvKhR - PAGdbzlIPu - QwZkPumpyImpYkiP : 1 - 35 - 35
+JsJpQUxXhCUAJtLEF - GBceObl - RY : 110 - 34 - 34
+NevfLOMnuZxg - JsJpQUxXhCUAJtLEF - nAIYrxGk : 24 - 24 - 22
+SdtoDLB - PAGdbzlIPu - avQgxQPjWPvXKZCztTY : 4 - 1 - 4
+RY - lXSYwzNRUOUveftx - zKXmPrPVTGt : 102 - 27 - 27
+PAGdbzlIPu - BEbAcMnWDowmlm - nAIYrxGk : 59 - 17 - 59
+nAIYrxGk - QwZkPumpyImpYkiP - qhJjJNhwfp : 8 - 9 - 8
+YNBAIORLQTeLXq - RY - lXSYwzNRUOUveftx : 19 - 19 - 109
+rUyxeke - NevfLOMnuZxg - zKXmPrPVTGt : 116 - 92 - 92
+BEbAcMnWDowmlm - QwZkPumpyImpYkiP - t : 51 - 58 - 58
+lXSYwzNRUOUveftx - BEbAcMnWDowmlm - cbFakWnECrWDkUvKhR : 119 - 5 - 119
+qhJjJNhwfp - RY - YNBAIORLQTeLXq : 45 - 45 - 54
+lXSYwzNRUOUveftx - GBceObl - YNBAIORLQTeLXq : 8 - 3 - 3
+YNBAIORLQTeLXq - PAGdbzlIPu - RY : 0 - 1 - 0
+lXSYwzNRUOUveftx - qhJjJNhwfp - t : 104 - 0 - 104
+zKXmPrPVTGt - NevfLOMnuZxg - SdtoDLB : 2 - 9 - 9
+lXSYwzNRUOUveftx - hNGcZ - nAIYrxGk : 17 - 32 - 17
+VCrZJsPciUjFkV - ghKGoBzypwhoTgAlt - t : 64 - 64 - 90
+nAIYrxGk - BEbAcMnWDowmlm - avQgxQPjWPvXKZCztTY : 56 - 17 - 17
+PAGdbzlIPu - GBceObl - VCrZJsPciUjFkV : 9 - 82 - 82
+BEbAcMnWDowmlm - VCrZJsPciUjFkV - t : 9 - 0 - 9
+SdtoDLB - VCrZJsPciUjFkV - t : 120 - 120 - 24
+t - lXSYwzNRUOUveftx - nAIYrxGk : 58 - 112 - 112
+SdtoDLB - QwZkPumpyImpYkiP - t : 29 - 29 - 79
+BEbAcMnWDowmlm - cbFakWnECrWDkUvKhR - ghKGoBzypwhoTgAlt : 69 - 37 - 69
+zKXmPrPVTGt - QwZkPumpyImpYkiP - hNGcZ : 6 - 41 - 6
+ghKGoBzypwhoTgAlt - RY - lXSYwzNRUOUveftx : 26 - 44 - 44
+PAGdbzlIPu - JsJpQUxXhCUAJtLEF - NevfLOMnuZxg : 95 - 95 - 77
+nAIYrxGk - QwZkPumpyImpYkiP - VCrZJsPciUjFkV : 56 - 4 - 56
+qhJjJNhwfp - ghKGoBzypwhoTgAlt - nAIYrxGk : 17 - 11 - 11

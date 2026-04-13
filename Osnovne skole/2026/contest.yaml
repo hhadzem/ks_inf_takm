@@ -1,0 +1,13 @@
+name: "kantonalno_osnovne_2026"
+description: "Kantonalno takmičenje osnovnih škola Kantona Sarajevo - 2026"
+token_mode: disabled
+tasks:
+  - kockice
+  - bina
+  - filteri
+  - tri_league_2026
+  - prosti
+start: 1775631600
+stop: 1775642400
+timezone: Europe/Sarajevo
+score_precision: 1

@@ -1,0 +1,176 @@
+24
+AtngYzNZuJ
+BXRYGRmi
+CclqaqlYpAxjtUW
+Ce
+DbuaOCdDviGh
+EcRzkIiYGM
+OkJZHFwDzgZwTGmvwJ
+R
+TeiodFcOnZ
+UcrKxoClGeslK
+WaHyZYAgZnLMw
+ZRRrMgZuCwdXAma
+anphIViUrYztbNbbt
+caNDqK
+dOUYaQTPOBgadtNYo
+eeKgyHeIpWHphLmxS
+gbgmiyHWSwkFPAH
+idDsfvcex
+jFiSIWUCRWVZHkjuqwW
+lqP
+qktluGWbI
+rda
+rsSBH
+teMEOGNR
+150
+CclqaqlYpAxjtUW - BXRYGRmi - rsSBH : 21 - 8 - 17
+qktluGWbI - DbuaOCdDviGh - rda : 81 - 80 - 92
+BXRYGRmi - DbuaOCdDviGh - TeiodFcOnZ : 65 - 79 - 75
+UcrKxoClGeslK - EcRzkIiYGM - rsSBH : 37 - 45 - 43
+OkJZHFwDzgZwTGmvwJ - CclqaqlYpAxjtUW - ZRRrMgZuCwdXAma : 91 - 101 - 79
+Ce - EcRzkIiYGM - anphIViUrYztbNbbt : 101 - 130 - 120
+EcRzkIiYGM - UcrKxoClGeslK - ZRRrMgZuCwdXAma : 110 - 111 - 104
+lqP - DbuaOCdDviGh - teMEOGNR : 100 - 97 - 46
+caNDqK - EcRzkIiYGM - qktluGWbI : 17 - 123 - 91
+idDsfvcex - eeKgyHeIpWHphLmxS - teMEOGNR : 25 - 118 - 83
+R - Ce - rda : 96 - 86 - 109
+caNDqK - R - jFiSIWUCRWVZHkjuqwW : 0 - 150 - 123
+dOUYaQTPOBgadtNYo - caNDqK - rsSBH : 126 - 77 - 21
+UcrKxoClGeslK - AtngYzNZuJ - anphIViUrYztbNbbt : 32 - 35 - 14
+Ce - lqP - qktluGWbI : 70 - 117 - 57
+Ce - dOUYaQTPOBgadtNYo - jFiSIWUCRWVZHkjuqwW : 18 - 16 - 19
+rsSBH - Ce - WaHyZYAgZnLMw : 124 - 103 - 0
+qktluGWbI - UcrKxoClGeslK - eeKgyHeIpWHphLmxS : 117 - 11 - 71
+TeiodFcOnZ - DbuaOCdDviGh - lqP : 33 - 97 - 26
+AtngYzNZuJ - ZRRrMgZuCwdXAma - qktluGWbI : 116 - 18 - 69
+Ce - BXRYGRmi - WaHyZYAgZnLMw : 85 - 86 - 47
+eeKgyHeIpWHphLmxS - gbgmiyHWSwkFPAH - rda : 61 - 50 - 6
+TeiodFcOnZ - WaHyZYAgZnLMw - dOUYaQTPOBgadtNYo : 51 - 10 - 34
+eeKgyHeIpWHphLmxS - ZRRrMgZuCwdXAma - dOUYaQTPOBgadtNYo : 50 - 43 - 53
+idDsfvcex - EcRzkIiYGM - jFiSIWUCRWVZHkjuqwW : 29 - 48 - 28
+UcrKxoClGeslK - BXRYGRmi - gbgmiyHWSwkFPAH : 71 - 60 - 8
+qktluGWbI - dOUYaQTPOBgadtNYo - eeKgyHeIpWHphLmxS : 62 - 113 - 10
+rsSBH - Ce - DbuaOCdDviGh : 73 - 93 - 90
+caNDqK - idDsfvcex - jFiSIWUCRWVZHkjuqwW : 2 - 0 - 1
+TeiodFcOnZ - R - idDsfvcex : 70 - 102 - 27
+DbuaOCdDviGh - caNDqK - rsSBH : 20 - 13 - 21
+qktluGWbI - WaHyZYAgZnLMw - rda : 39 - 33 - 38
+OkJZHFwDzgZwTGmvwJ - caNDqK - qktluGWbI : 14 - 11 - 12
+rda - DbuaOCdDviGh - EcRzkIiYGM : 44 - 103 - 37
+dOUYaQTPOBgadtNYo - EcRzkIiYGM - caNDqK : 17 - 16 - 15
+caNDqK - CclqaqlYpAxjtUW - EcRzkIiYGM : 72 - 137 - 4
+UcrKxoClGeslK - Ce - dOUYaQTPOBgadtNYo : 4 - 67 - 39
+caNDqK - R - WaHyZYAgZnLMw : 145 - 86 - 15
+WaHyZYAgZnLMw - CclqaqlYpAxjtUW - caNDqK : 111 - 132 - 7
+WaHyZYAgZnLMw - qktluGWbI - teMEOGNR : 53 - 133 - 9
+rda - EcRzkIiYGM - lqP : 18 - 21 - 16
+teMEOGNR - OkJZHFwDzgZwTGmvwJ - ZRRrMgZuCwdXAma : 57 - 42 - 98
+DbuaOCdDviGh - ZRRrMgZuCwdXAma - jFiSIWUCRWVZHkjuqwW : 48 - 45 - 53
+dOUYaQTPOBgadtNYo - CclqaqlYpAxjtUW - WaHyZYAgZnLMw : 112 - 138 - 33
+rda - CclqaqlYpAxjtUW - TeiodFcOnZ : 33 - 37 - 21
+rsSBH - AtngYzNZuJ - CclqaqlYpAxjtUW : 19 - 108 - 40
+TeiodFcOnZ - CclqaqlYpAxjtUW - anphIViUrYztbNbbt : 42 - 8 - 114
+ZRRrMgZuCwdXAma - EcRzkIiYGM - OkJZHFwDzgZwTGmvwJ : 122 - 53 - 2
+WaHyZYAgZnLMw - jFiSIWUCRWVZHkjuqwW - lqP : 72 - 56 - 47
+eeKgyHeIpWHphLmxS - WaHyZYAgZnLMw - dOUYaQTPOBgadtNYo : 111 - 126 - 75
+TeiodFcOnZ - BXRYGRmi - rda : 96 - 104 - 110
+OkJZHFwDzgZwTGmvwJ - UcrKxoClGeslK - caNDqK : 36 - 2 - 8
+WaHyZYAgZnLMw - EcRzkIiYGM - teMEOGNR : 53 - 24 - 44
+AtngYzNZuJ - Ce - rda : 134 - 38 - 52
+AtngYzNZuJ - UcrKxoClGeslK - dOUYaQTPOBgadtNYo : 148 - 137 - 52
+CclqaqlYpAxjtUW - OkJZHFwDzgZwTGmvwJ - R : 55 - 101 - 26
+lqP - BXRYGRmi - R : 19 - 40 - 59
+AtngYzNZuJ - EcRzkIiYGM - UcrKxoClGeslK : 8 - 36 - 7
+idDsfvcex - jFiSIWUCRWVZHkjuqwW - teMEOGNR : 34 - 91 - 63
+eeKgyHeIpWHphLmxS - WaHyZYAgZnLMw - caNDqK : 136 - 36 - 46
+TeiodFcOnZ - ZRRrMgZuCwdXAma - lqP : 80 - 25 - 17
+lqP - CclqaqlYpAxjtUW - R : 27 - 21 - 26
+anphIViUrYztbNbbt - UcrKxoClGeslK - dOUYaQTPOBgadtNYo : 24 - 90 - 34
+BXRYGRmi - Ce - idDsfvcex : 134 - 33 - 144
+DbuaOCdDviGh - BXRYGRmi - rda : 145 - 22 - 122
+gbgmiyHWSwkFPAH - EcRzkIiYGM - OkJZHFwDzgZwTGmvwJ : 96 - 87 - 77
+idDsfvcex - caNDqK - teMEOGNR : 17 - 7 - 8
+UcrKxoClGeslK - CclqaqlYpAxjtUW - eeKgyHeIpWHphLmxS : 146 - 0 - 142
+R - anphIViUrYztbNbbt - qktluGWbI : 1 - 132 - 109
+R - CclqaqlYpAxjtUW - anphIViUrYztbNbbt : 53 - 36 - 104
+dOUYaQTPOBgadtNYo - TeiodFcOnZ - anphIViUrYztbNbbt : 64 - 75 - 39
+rsSBH - Ce - UcrKxoClGeslK : 64 - 11 - 98
+anphIViUrYztbNbbt - OkJZHFwDzgZwTGmvwJ - ZRRrMgZuCwdXAma : 41 - 120 - 59
+gbgmiyHWSwkFPAH - R - WaHyZYAgZnLMw : 101 - 103 - 105
+ZRRrMgZuCwdXAma - dOUYaQTPOBgadtNYo - rda : 41 - 64 - 54
+UcrKxoClGeslK - CclqaqlYpAxjtUW - ZRRrMgZuCwdXAma : 6 - 12 - 16
+UcrKxoClGeslK - OkJZHFwDzgZwTGmvwJ - rsSBH : 51 - 147 - 27
+ZRRrMgZuCwdXAma - jFiSIWUCRWVZHkjuqwW - lqP : 8 - 84 - 116
+lqP - CclqaqlYpAxjtUW - EcRzkIiYGM : 7 - 143 - 102
+rda - CclqaqlYpAxjtUW - rsSBH : 52 - 118 - 67
+TeiodFcOnZ - ZRRrMgZuCwdXAma - rda : 123 - 84 - 146
+OkJZHFwDzgZwTGmvwJ - BXRYGRmi - rda : 4 - 19 - 2
+WaHyZYAgZnLMw - eeKgyHeIpWHphLmxS - idDsfvcex : 45 - 42 - 3
+DbuaOCdDviGh - jFiSIWUCRWVZHkjuqwW - rsSBH : 67 - 89 - 65
+rsSBH - dOUYaQTPOBgadtNYo - qktluGWbI : 132 - 93 - 32
+AtngYzNZuJ - R - qktluGWbI : 114 - 38 - 132
+caNDqK - Ce - UcrKxoClGeslK : 40 - 52 - 142
+lqP - eeKgyHeIpWHphLmxS - jFiSIWUCRWVZHkjuqwW : 6 - 117 - 128
+Ce - UcrKxoClGeslK - idDsfvcex : 97 - 146 - 17
+caNDqK - AtngYzNZuJ - teMEOGNR : 95 - 126 - 43
+ZRRrMgZuCwdXAma - WaHyZYAgZnLMw - eeKgyHeIpWHphLmxS : 89 - 19 - 10
+jFiSIWUCRWVZHkjuqwW - OkJZHFwDzgZwTGmvwJ - rsSBH : 101 - 98 - 58
+caNDqK - ZRRrMgZuCwdXAma - qktluGWbI : 92 - 130 - 104
+TeiodFcOnZ - R - anphIViUrYztbNbbt : 118 - 49 - 69
+qktluGWbI - EcRzkIiYGM - WaHyZYAgZnLMw : 78 - 149 - 96
+ZRRrMgZuCwdXAma - caNDqK - rda : 11 - 35 - 93
+DbuaOCdDviGh - Ce - qktluGWbI : 68 - 100 - 96
+CclqaqlYpAxjtUW - caNDqK - qktluGWbI : 66 - 101 - 2
+dOUYaQTPOBgadtNYo - qktluGWbI - rda : 108 - 119 - 99
+OkJZHFwDzgZwTGmvwJ - AtngYzNZuJ - DbuaOCdDviGh : 135 - 137 - 126
+qktluGWbI - CclqaqlYpAxjtUW - rda : 23 - 8 - 41
+WaHyZYAgZnLMw - AtngYzNZuJ - TeiodFcOnZ : 108 - 14 - 91
+jFiSIWUCRWVZHkjuqwW - CclqaqlYpAxjtUW - EcRzkIiYGM : 24 - 143 - 118
+UcrKxoClGeslK - EcRzkIiYGM - TeiodFcOnZ : 82 - 108 - 0
+EcRzkIiYGM - gbgmiyHWSwkFPAH - jFiSIWUCRWVZHkjuqwW : 51 - 35 - 48
+UcrKxoClGeslK - lqP - rsSBH : 79 - 116 - 110
+OkJZHFwDzgZwTGmvwJ - anphIViUrYztbNbbt - teMEOGNR : 26 - 33 - 22
+rsSBH - UcrKxoClGeslK - eeKgyHeIpWHphLmxS : 57 - 9 - 18
+CclqaqlYpAxjtUW - TeiodFcOnZ - gbgmiyHWSwkFPAH : 121 - 16 - 94
+rda - R - eeKgyHeIpWHphLmxS : 50 - 59 - 20
+rda - AtngYzNZuJ - rsSBH : 79 - 81 - 10
+TeiodFcOnZ - CclqaqlYpAxjtUW - EcRzkIiYGM : 103 - 94 - 27
+EcRzkIiYGM - CclqaqlYpAxjtUW - WaHyZYAgZnLMw : 111 - 41 - 19
+DbuaOCdDviGh - UcrKxoClGeslK - rda : 140 - 44 - 32
+anphIViUrYztbNbbt - gbgmiyHWSwkFPAH - lqP : 41 - 44 - 66
+OkJZHFwDzgZwTGmvwJ - CclqaqlYpAxjtUW - idDsfvcex : 89 - 67 - 95
+Ce - caNDqK - rsSBH : 50 - 124 - 147
+EcRzkIiYGM - CclqaqlYpAxjtUW - TeiodFcOnZ : 10 - 13 - 35
+UcrKxoClGeslK - EcRzkIiYGM - OkJZHFwDzgZwTGmvwJ : 78 - 59 - 45
+qktluGWbI - AtngYzNZuJ - EcRzkIiYGM : 120 - 2 - 99
+TeiodFcOnZ - EcRzkIiYGM - UcrKxoClGeslK : 13 - 19 - 17
+eeKgyHeIpWHphLmxS - EcRzkIiYGM - R : 124 - 115 - 125
+jFiSIWUCRWVZHkjuqwW - DbuaOCdDviGh - EcRzkIiYGM : 31 - 80 - 103
+caNDqK - ZRRrMgZuCwdXAma - anphIViUrYztbNbbt : 41 - 148 - 17
+ZRRrMgZuCwdXAma - EcRzkIiYGM - UcrKxoClGeslK : 139 - 143 - 12
+R - BXRYGRmi - teMEOGNR : 99 - 119 - 97
+anphIViUrYztbNbbt - WaHyZYAgZnLMw - jFiSIWUCRWVZHkjuqwW : 89 - 88 - 125
+CclqaqlYpAxjtUW - AtngYzNZuJ - EcRzkIiYGM : 14 - 84 - 11
+Ce - gbgmiyHWSwkFPAH - lqP : 38 - 33 - 42
+gbgmiyHWSwkFPAH - TeiodFcOnZ - jFiSIWUCRWVZHkjuqwW : 29 - 132 - 140
+eeKgyHeIpWHphLmxS - ZRRrMgZuCwdXAma - idDsfvcex : 72 - 43 - 126
+rsSBH - WaHyZYAgZnLMw - ZRRrMgZuCwdXAma : 16 - 48 - 40
+WaHyZYAgZnLMw - AtngYzNZuJ - ZRRrMgZuCwdXAma : 69 - 48 - 52
+jFiSIWUCRWVZHkjuqwW - R - UcrKxoClGeslK : 14 - 44 - 42
+EcRzkIiYGM - BXRYGRmi - TeiodFcOnZ : 79 - 72 - 64
+R - DbuaOCdDviGh - teMEOGNR : 117 - 79 - 71
+lqP - AtngYzNZuJ - teMEOGNR : 32 - 119 - 90
+R - Ce - eeKgyHeIpWHphLmxS : 12 - 132 - 93
+caNDqK - AtngYzNZuJ - rda : 9 - 19 - 16
+DbuaOCdDviGh - AtngYzNZuJ - EcRzkIiYGM : 6 - 36 - 8
+dOUYaQTPOBgadtNYo - anphIViUrYztbNbbt - rda : 11 - 135 - 112
+eeKgyHeIpWHphLmxS - EcRzkIiYGM - rda : 54 - 33 - 77
+caNDqK - gbgmiyHWSwkFPAH - qktluGWbI : 117 - 64 - 114
+lqP - R - ZRRrMgZuCwdXAma : 18 - 0 - 13
+dOUYaQTPOBgadtNYo - caNDqK - jFiSIWUCRWVZHkjuqwW : 27 - 137 - 56
+qktluGWbI - BXRYGRmi - WaHyZYAgZnLMw : 3 - 129 - 126
+teMEOGNR - Ce - TeiodFcOnZ : 141 - 134 - 108
+R - anphIViUrYztbNbbt - rda : 90 - 58 - 61
+teMEOGNR - eeKgyHeIpWHphLmxS - rda : 65 - 101 - 5
+eeKgyHeIpWHphLmxS - jFiSIWUCRWVZHkjuqwW - qktluGWbI : 31 - 130 - 39

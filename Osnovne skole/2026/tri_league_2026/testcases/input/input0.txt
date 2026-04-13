@@ -1,0 +1,13 @@
+4
+D
+Ueg
+w
+yYdIADTLC
+7
+D - Ueg - yYdIADTLC : 1 - 15 - 15
+yYdIADTLC - D - w : 19 - 18 - 20
+D - Ueg - w : 3 - 14 - 19
+yYdIADTLC - D - Ueg : 20 - 0 - 17
+w - Ueg - yYdIADTLC : 5 - 24 - 2
+D - w - yYdIADTLC : 18 - 14 - 12
+Ueg - D - yYdIADTLC : 5 - 21 - 19

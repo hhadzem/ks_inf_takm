@@ -1,0 +1,30 @@
+5
+CQNqAgVbK
+cMXFpSymyT
+dOTWARmlcnzPSEMK
+ekKyiHWtKtZwQAGsrL
+l
+23
+l - CQNqAgVbK - ekKyiHWtKtZwQAGsrL : 5 - 11 - 8
+dOTWARmlcnzPSEMK - ekKyiHWtKtZwQAGsrL - l : 29 - 31 - 9
+ekKyiHWtKtZwQAGsrL - dOTWARmlcnzPSEMK - l : 7 - 1 - 19
+dOTWARmlcnzPSEMK - cMXFpSymyT - ekKyiHWtKtZwQAGsrL : 1 - 8 - 6
+CQNqAgVbK - dOTWARmlcnzPSEMK - ekKyiHWtKtZwQAGsrL : 13 - 10 - 5
+dOTWARmlcnzPSEMK - cMXFpSymyT - l : 4 - 15 - 18
+l - CQNqAgVbK - dOTWARmlcnzPSEMK : 44 - 38 - 16
+cMXFpSymyT - CQNqAgVbK - dOTWARmlcnzPSEMK : 48 - 18 - 36
+cMXFpSymyT - ekKyiHWtKtZwQAGsrL - l : 28 - 18 - 20
+CQNqAgVbK - ekKyiHWtKtZwQAGsrL - l : 7 - 14 - 3
+dOTWARmlcnzPSEMK - CQNqAgVbK - ekKyiHWtKtZwQAGsrL : 4 - 9 - 6
+cMXFpSymyT - dOTWARmlcnzPSEMK - ekKyiHWtKtZwQAGsrL : 39 - 45 - 31
+ekKyiHWtKtZwQAGsrL - CQNqAgVbK - l : 7 - 13 - 4
+ekKyiHWtKtZwQAGsrL - CQNqAgVbK - dOTWARmlcnzPSEMK : 16 - 14 - 17
+CQNqAgVbK - cMXFpSymyT - ekKyiHWtKtZwQAGsrL : 37 - 42 - 34
+cMXFpSymyT - dOTWARmlcnzPSEMK - l : 19 - 18 - 20
+CQNqAgVbK - cMXFpSymyT - l : 4 - 3 - 2
+CQNqAgVbK - dOTWARmlcnzPSEMK - l : 47 - 46 - 48
+l - cMXFpSymyT - ekKyiHWtKtZwQAGsrL : 25 - 30 - 40
+dOTWARmlcnzPSEMK - CQNqAgVbK - l : 17 - 13 - 16
+cMXFpSymyT - CQNqAgVbK - ekKyiHWtKtZwQAGsrL : 37 - 27 - 35
+ekKyiHWtKtZwQAGsrL - CQNqAgVbK - cMXFpSymyT : 46 - 48 - 47
+ekKyiHWtKtZwQAGsrL - cMXFpSymyT - dOTWARmlcnzPSEMK : 1 - 9 - 8

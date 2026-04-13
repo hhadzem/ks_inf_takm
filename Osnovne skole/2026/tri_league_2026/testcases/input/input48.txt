@@ -1,0 +1,97 @@
+12
+BI
+WOBuyNZUYPCPUAZ
+WzFzanAc
+YaCDkKxbqoUSwQ
+aYJWWIgsKj
+dZ
+eGcTYIiroaccKise
+srZyzhGTryeGU
+tE
+tcIPuETinys
+vKMJitaNGtnDlczUNf
+vypYxmz
+83
+tcIPuETinys - WOBuyNZUYPCPUAZ - eGcTYIiroaccKise : 68 - 42 - 89
+YaCDkKxbqoUSwQ - WOBuyNZUYPCPUAZ - WzFzanAc : 25 - 31 - 1
+dZ - WOBuyNZUYPCPUAZ - srZyzhGTryeGU : 32 - 0 - 59
+aYJWWIgsKj - tE - vypYxmz : 32 - 29 - 38
+eGcTYIiroaccKise - WzFzanAc - tE : 41 - 91 - 73
+YaCDkKxbqoUSwQ - BI - vypYxmz : 109 - 102 - 62
+vypYxmz - YaCDkKxbqoUSwQ - eGcTYIiroaccKise : 18 - 20 - 110
+srZyzhGTryeGU - vKMJitaNGtnDlczUNf - vypYxmz : 45 - 24 - 85
+vypYxmz - aYJWWIgsKj - dZ : 84 - 18 - 79
+WOBuyNZUYPCPUAZ - YaCDkKxbqoUSwQ - aYJWWIgsKj : 7 - 97 - 92
+aYJWWIgsKj - WOBuyNZUYPCPUAZ - YaCDkKxbqoUSwQ : 70 - 50 - 20
+WzFzanAc - tcIPuETinys - vypYxmz : 83 - 94 - 18
+srZyzhGTryeGU - aYJWWIgsKj - vypYxmz : 69 - 23 - 30
+vKMJitaNGtnDlczUNf - srZyzhGTryeGU - tE : 53 - 4 - 5
+WzFzanAc - YaCDkKxbqoUSwQ - aYJWWIgsKj : 86 - 117 - 28
+BI - aYJWWIgsKj - vKMJitaNGtnDlczUNf : 7 - 84 - 0
+srZyzhGTryeGU - tE - vypYxmz : 118 - 55 - 117
+BI - YaCDkKxbqoUSwQ - dZ : 49 - 63 - 75
+WzFzanAc - WOBuyNZUYPCPUAZ - eGcTYIiroaccKise : 35 - 8 - 91
+WzFzanAc - tE - vypYxmz : 88 - 3 - 88
+BI - WzFzanAc - aYJWWIgsKj : 15 - 117 - 23
+aYJWWIgsKj - WzFzanAc - dZ : 48 - 49 - 45
+vKMJitaNGtnDlczUNf - srZyzhGTryeGU - vypYxmz : 36 - 108 - 84
+WzFzanAc - vKMJitaNGtnDlczUNf - vypYxmz : 8 - 3 - 79
+WzFzanAc - BI - eGcTYIiroaccKise : 33 - 58 - 49
+aYJWWIgsKj - YaCDkKxbqoUSwQ - srZyzhGTryeGU : 44 - 47 - 49
+dZ - srZyzhGTryeGU - vypYxmz : 62 - 81 - 49
+srZyzhGTryeGU - WzFzanAc - vypYxmz : 9 - 97 - 75
+BI - eGcTYIiroaccKise - srZyzhGTryeGU : 47 - 108 - 84
+BI - srZyzhGTryeGU - vKMJitaNGtnDlczUNf : 63 - 11 - 119
+vKMJitaNGtnDlczUNf - BI - eGcTYIiroaccKise : 16 - 72 - 33
+vypYxmz - YaCDkKxbqoUSwQ - tcIPuETinys : 64 - 40 - 11
+BI - dZ - srZyzhGTryeGU : 49 - 55 - 64
+tE - WzFzanAc - srZyzhGTryeGU : 86 - 114 - 44
+WzFzanAc - BI - YaCDkKxbqoUSwQ : 105 - 75 - 23
+BI - dZ - eGcTYIiroaccKise : 44 - 39 - 7
+eGcTYIiroaccKise - WOBuyNZUYPCPUAZ - aYJWWIgsKj : 41 - 43 - 99
+aYJWWIgsKj - srZyzhGTryeGU - tE : 74 - 109 - 46
+eGcTYIiroaccKise - YaCDkKxbqoUSwQ - vypYxmz : 31 - 83 - 48
+dZ - eGcTYIiroaccKise - tE : 101 - 12 - 83
+BI - WOBuyNZUYPCPUAZ - tE : 13 - 22 - 90
+vKMJitaNGtnDlczUNf - WOBuyNZUYPCPUAZ - WzFzanAc : 105 - 85 - 27
+dZ - YaCDkKxbqoUSwQ - tE : 108 - 110 - 44
+tE - dZ - eGcTYIiroaccKise : 78 - 46 - 36
+eGcTYIiroaccKise - srZyzhGTryeGU - tcIPuETinys : 106 - 14 - 80
+WzFzanAc - WOBuyNZUYPCPUAZ - tE : 6 - 41 - 81
+eGcTYIiroaccKise - WzFzanAc - dZ : 97 - 119 - 97
+dZ - BI - vKMJitaNGtnDlczUNf : 37 - 80 - 61
+dZ - WzFzanAc - srZyzhGTryeGU : 75 - 90 - 83
+aYJWWIgsKj - BI - WOBuyNZUYPCPUAZ : 73 - 105 - 32
+dZ - YaCDkKxbqoUSwQ - srZyzhGTryeGU : 43 - 105 - 101
+srZyzhGTryeGU - WOBuyNZUYPCPUAZ - eGcTYIiroaccKise : 54 - 113 - 24
+tcIPuETinys - WzFzanAc - vKMJitaNGtnDlczUNf : 10 - 32 - 57
+YaCDkKxbqoUSwQ - srZyzhGTryeGU - tE : 5 - 109 - 81
+WOBuyNZUYPCPUAZ - aYJWWIgsKj - tcIPuETinys : 71 - 48 - 66
+tE - YaCDkKxbqoUSwQ - vKMJitaNGtnDlczUNf : 87 - 59 - 105
+YaCDkKxbqoUSwQ - WzFzanAc - vKMJitaNGtnDlczUNf : 33 - 6 - 99
+tE - WOBuyNZUYPCPUAZ - aYJWWIgsKj : 36 - 30 - 34
+srZyzhGTryeGU - WOBuyNZUYPCPUAZ - aYJWWIgsKj : 67 - 34 - 6
+vKMJitaNGtnDlczUNf - WOBuyNZUYPCPUAZ - YaCDkKxbqoUSwQ : 18 - 74 - 94
+vKMJitaNGtnDlczUNf - WOBuyNZUYPCPUAZ - tcIPuETinys : 50 - 113 - 71
+tE - srZyzhGTryeGU - vypYxmz : 100 - 11 - 13
+srZyzhGTryeGU - BI - aYJWWIgsKj : 27 - 114 - 38
+aYJWWIgsKj - BI - dZ : 69 - 47 - 40
+aYJWWIgsKj - srZyzhGTryeGU - vypYxmz : 98 - 107 - 68
+YaCDkKxbqoUSwQ - tcIPuETinys - vKMJitaNGtnDlczUNf : 4 - 94 - 34
+aYJWWIgsKj - YaCDkKxbqoUSwQ - tcIPuETinys : 18 - 29 - 96
+eGcTYIiroaccKise - srZyzhGTryeGU - tE : 54 - 5 - 40
+BI - WOBuyNZUYPCPUAZ - WzFzanAc : 99 - 76 - 76
+YaCDkKxbqoUSwQ - WzFzanAc - dZ : 70 - 84 - 66
+YaCDkKxbqoUSwQ - aYJWWIgsKj - tE : 26 - 99 - 41
+srZyzhGTryeGU - tcIPuETinys - vypYxmz : 38 - 96 - 21
+dZ - eGcTYIiroaccKise - vKMJitaNGtnDlczUNf : 53 - 77 - 110
+dZ - YaCDkKxbqoUSwQ - tcIPuETinys : 112 - 92 - 66
+tcIPuETinys - WOBuyNZUYPCPUAZ - vKMJitaNGtnDlczUNf : 114 - 112 - 45
+srZyzhGTryeGU - aYJWWIgsKj - vKMJitaNGtnDlczUNf : 109 - 46 - 120
+WzFzanAc - YaCDkKxbqoUSwQ - vKMJitaNGtnDlczUNf : 69 - 67 - 83
+WzFzanAc - eGcTYIiroaccKise - vKMJitaNGtnDlczUNf : 78 - 103 - 19
+WOBuyNZUYPCPUAZ - aYJWWIgsKj - srZyzhGTryeGU : 41 - 86 - 91
+tE - YaCDkKxbqoUSwQ - vypYxmz : 70 - 103 - 3
+YaCDkKxbqoUSwQ - aYJWWIgsKj - vypYxmz : 36 - 9 - 20
+BI - WzFzanAc - eGcTYIiroaccKise : 33 - 107 - 38
+tE - dZ - srZyzhGTryeGU : 16 - 48 - 41

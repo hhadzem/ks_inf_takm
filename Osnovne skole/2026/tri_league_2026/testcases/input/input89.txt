@@ -1,0 +1,92 @@
+10
+DKCYYkfXizzH
+EyiyXuZilxOMiyLjC
+MEDycfmUzFZOJFpIByGs
+jykxzDQBXh
+qSpsg
+uigoIFPhMgCqsrX
+wrMQwj
+yeXVLDTyI
+zH
+zje
+80
+qSpsg - zH - zje : 3 - 3 - 3
+wrMQwj - jykxzDQBXh - zH : 3 - 3 - 3
+zH - EyiyXuZilxOMiyLjC - qSpsg : 1 - 1 - 1
+EyiyXuZilxOMiyLjC - DKCYYkfXizzH - jykxzDQBXh : 1 - 1 - 1
+qSpsg - wrMQwj - zH : 0 - 0 - 0
+MEDycfmUzFZOJFpIByGs - uigoIFPhMgCqsrX - zH : 0 - 0 - 3
+jykxzDQBXh - wrMQwj - zje : 0 - 0 - 0
+MEDycfmUzFZOJFpIByGs - DKCYYkfXizzH - wrMQwj : 2 - 1 - 1
+uigoIFPhMgCqsrX - wrMQwj - zH : 2 - 1 - 2
+qSpsg - MEDycfmUzFZOJFpIByGs - zH : 0 - 0 - 0
+EyiyXuZilxOMiyLjC - yeXVLDTyI - zje : 3 - 3 - 3
+zH - EyiyXuZilxOMiyLjC - yeXVLDTyI : 2 - 2 - 2
+jykxzDQBXh - EyiyXuZilxOMiyLjC - MEDycfmUzFZOJFpIByGs : 2 - 2 - 2
+jykxzDQBXh - wrMQwj - yeXVLDTyI : 2 - 2 - 2
+EyiyXuZilxOMiyLjC - jykxzDQBXh - zH : 1 - 1 - 1
+qSpsg - EyiyXuZilxOMiyLjC - zje : 2 - 2 - 2
+yeXVLDTyI - MEDycfmUzFZOJFpIByGs - uigoIFPhMgCqsrX : 2 - 2 - 2
+qSpsg - jykxzDQBXh - yeXVLDTyI : 2 - 2 - 2
+EyiyXuZilxOMiyLjC - DKCYYkfXizzH - wrMQwj : 0 - 1 - 3
+yeXVLDTyI - jykxzDQBXh - uigoIFPhMgCqsrX : 3 - 3 - 2
+zH - wrMQwj - yeXVLDTyI : 3 - 0 - 2
+DKCYYkfXizzH - wrMQwj - yeXVLDTyI : 3 - 3 - 3
+wrMQwj - EyiyXuZilxOMiyLjC - zH : 3 - 3 - 3
+zje - qSpsg - uigoIFPhMgCqsrX : 3 - 3 - 3
+yeXVLDTyI - qSpsg - uigoIFPhMgCqsrX : 3 - 3 - 3
+jykxzDQBXh - qSpsg - zje : 1 - 1 - 3
+EyiyXuZilxOMiyLjC - jykxzDQBXh - zje : 1 - 3 - 1
+DKCYYkfXizzH - EyiyXuZilxOMiyLjC - zje : 1 - 0 - 1
+qSpsg - uigoIFPhMgCqsrX - zH : 3 - 3 - 3
+zH - EyiyXuZilxOMiyLjC - MEDycfmUzFZOJFpIByGs : 0 - 0 - 0
+yeXVLDTyI - uigoIFPhMgCqsrX - zje : 0 - 0 - 0
+zH - jykxzDQBXh - qSpsg : 1 - 3 - 3
+qSpsg - DKCYYkfXizzH - uigoIFPhMgCqsrX : 3 - 1 - 0
+DKCYYkfXizzH - uigoIFPhMgCqsrX - wrMQwj : 2 - 0 - 2
+uigoIFPhMgCqsrX - qSpsg - wrMQwj : 1 - 1 - 2
+uigoIFPhMgCqsrX - EyiyXuZilxOMiyLjC - yeXVLDTyI : 1 - 0 - 1
+wrMQwj - uigoIFPhMgCqsrX - zje : 1 - 1 - 1
+zje - MEDycfmUzFZOJFpIByGs - jykxzDQBXh : 1 - 3 - 0
+yeXVLDTyI - jykxzDQBXh - qSpsg : 0 - 0 - 3
+yeXVLDTyI - DKCYYkfXizzH - zH : 0 - 3 - 0
+MEDycfmUzFZOJFpIByGs - DKCYYkfXizzH - jykxzDQBXh : 2 - 2 - 2
+DKCYYkfXizzH - wrMQwj - zje : 0 - 1 - 3
+DKCYYkfXizzH - wrMQwj - zH : 1 - 1 - 1
+jykxzDQBXh - EyiyXuZilxOMiyLjC - wrMQwj : 2 - 2 - 2
+uigoIFPhMgCqsrX - EyiyXuZilxOMiyLjC - zH : 1 - 0 - 0
+qSpsg - DKCYYkfXizzH - zH : 1 - 1 - 1
+MEDycfmUzFZOJFpIByGs - EyiyXuZilxOMiyLjC - zH : 2 - 3 - 3
+yeXVLDTyI - wrMQwj - zje : 2 - 1 - 1
+zje - EyiyXuZilxOMiyLjC - jykxzDQBXh : 3 - 3 - 3
+uigoIFPhMgCqsrX - DKCYYkfXizzH - EyiyXuZilxOMiyLjC : 1 - 1 - 1
+qSpsg - DKCYYkfXizzH - EyiyXuZilxOMiyLjC : 2 - 0 - 2
+zH - MEDycfmUzFZOJFpIByGs - wrMQwj : 3 - 3 - 2
+jykxzDQBXh - yeXVLDTyI - zje : 3 - 3 - 3
+wrMQwj - EyiyXuZilxOMiyLjC - qSpsg : 1 - 1 - 1
+zje - EyiyXuZilxOMiyLjC - zH : 3 - 3 - 3
+qSpsg - MEDycfmUzFZOJFpIByGs - zje : 3 - 2 - 0
+jykxzDQBXh - qSpsg - zH : 2 - 0 - 1
+zje - yeXVLDTyI - zH : 2 - 0 - 3
+uigoIFPhMgCqsrX - MEDycfmUzFZOJFpIByGs - zH : 0 - 2 - 3
+yeXVLDTyI - qSpsg - wrMQwj : 3 - 2 - 3
+uigoIFPhMgCqsrX - MEDycfmUzFZOJFpIByGs - zje : 2 - 2 - 0
+DKCYYkfXizzH - yeXVLDTyI - zje : 1 - 2 - 1
+yeXVLDTyI - DKCYYkfXizzH - uigoIFPhMgCqsrX : 3 - 3 - 3
+jykxzDQBXh - DKCYYkfXizzH - wrMQwj : 0 - 1 - 1
+yeXVLDTyI - uigoIFPhMgCqsrX - zH : 0 - 0 - 2
+jykxzDQBXh - EyiyXuZilxOMiyLjC - yeXVLDTyI : 1 - 3 - 1
+MEDycfmUzFZOJFpIByGs - jykxzDQBXh - zH : 0 - 0 - 0
+qSpsg - MEDycfmUzFZOJFpIByGs - yeXVLDTyI : 3 - 0 - 2
+jykxzDQBXh - uigoIFPhMgCqsrX - zje : 2 - 2 - 1
+EyiyXuZilxOMiyLjC - jykxzDQBXh - qSpsg : 2 - 3 - 3
+zje - MEDycfmUzFZOJFpIByGs - wrMQwj : 0 - 2 - 1
+DKCYYkfXizzH - jykxzDQBXh - yeXVLDTyI : 2 - 2 - 2
+jykxzDQBXh - MEDycfmUzFZOJFpIByGs - zH : 1 - 1 - 1
+yeXVLDTyI - MEDycfmUzFZOJFpIByGs - wrMQwj : 1 - 1 - 1
+yeXVLDTyI - MEDycfmUzFZOJFpIByGs - zje : 1 - 0 - 3
+zH - DKCYYkfXizzH - qSpsg : 2 - 2 - 2
+qSpsg - yeXVLDTyI - zH : 1 - 1 - 1
+jykxzDQBXh - MEDycfmUzFZOJFpIByGs - zje : 2 - 2 - 2
+DKCYYkfXizzH - qSpsg - yeXVLDTyI : 2 - 2 - 2
+zH - DKCYYkfXizzH - jykxzDQBXh : 2 - 0 - 1

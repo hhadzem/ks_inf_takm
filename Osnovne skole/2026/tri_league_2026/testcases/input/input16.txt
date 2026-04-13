@@ -1,0 +1,43 @@
+6
+FAWzilCfXKsdH
+Hcmeh
+SIoXcPBliLTurGh
+UToTrtw
+aOgvkHPkUa
+pqtVXidrlXfATuPveos
+35
+aOgvkHPkUa - FAWzilCfXKsdH - Hcmeh : 23 - 22 - 21
+aOgvkHPkUa - Hcmeh - pqtVXidrlXfATuPveos : 33 - 34 - 34
+FAWzilCfXKsdH - Hcmeh - aOgvkHPkUa : 22 - 2 - 0
+SIoXcPBliLTurGh - FAWzilCfXKsdH - Hcmeh : 37 - 27 - 19
+UToTrtw - SIoXcPBliLTurGh - aOgvkHPkUa : 4 - 15 - 15
+pqtVXidrlXfATuPveos - FAWzilCfXKsdH - Hcmeh : 24 - 37 - 37
+SIoXcPBliLTurGh - UToTrtw - pqtVXidrlXfATuPveos : 1 - 14 - 14
+aOgvkHPkUa - SIoXcPBliLTurGh - pqtVXidrlXfATuPveos : 7 - 39 - 38
+UToTrtw - FAWzilCfXKsdH - pqtVXidrlXfATuPveos : 5 - 1 - 5
+FAWzilCfXKsdH - SIoXcPBliLTurGh - aOgvkHPkUa : 20 - 2 - 40
+Hcmeh - FAWzilCfXKsdH - UToTrtw : 36 - 39 - 0
+SIoXcPBliLTurGh - aOgvkHPkUa - pqtVXidrlXfATuPveos : 1 - 31 - 29
+aOgvkHPkUa - FAWzilCfXKsdH - UToTrtw : 4 - 1 - 4
+SIoXcPBliLTurGh - UToTrtw - aOgvkHPkUa : 9 - 17 - 0
+pqtVXidrlXfATuPveos - UToTrtw - aOgvkHPkUa : 6 - 25 - 19
+SIoXcPBliLTurGh - FAWzilCfXKsdH - aOgvkHPkUa : 15 - 11 - 40
+aOgvkHPkUa - SIoXcPBliLTurGh - UToTrtw : 12 - 12 - 11
+UToTrtw - FAWzilCfXKsdH - aOgvkHPkUa : 0 - 1 - 1
+pqtVXidrlXfATuPveos - FAWzilCfXKsdH - aOgvkHPkUa : 4 - 40 - 10
+FAWzilCfXKsdH - SIoXcPBliLTurGh - pqtVXidrlXfATuPveos : 3 - 0 - 3
+UToTrtw - FAWzilCfXKsdH - Hcmeh : 6 - 6 - 5
+Hcmeh - aOgvkHPkUa - pqtVXidrlXfATuPveos : 1 - 10 - 10
+UToTrtw - FAWzilCfXKsdH - SIoXcPBliLTurGh : 25 - 15 - 39
+aOgvkHPkUa - FAWzilCfXKsdH - pqtVXidrlXfATuPveos : 27 - 6 - 27
+FAWzilCfXKsdH - aOgvkHPkUa - pqtVXidrlXfATuPveos : 13 - 20 - 26
+pqtVXidrlXfATuPveos - Hcmeh - SIoXcPBliLTurGh : 37 - 37 - 10
+SIoXcPBliLTurGh - Hcmeh - UToTrtw : 7 - 4 - 15
+Hcmeh - SIoXcPBliLTurGh - UToTrtw : 6 - 6 - 25
+UToTrtw - aOgvkHPkUa - pqtVXidrlXfATuPveos : 5 - 2 - 5
+UToTrtw - Hcmeh - SIoXcPBliLTurGh : 16 - 18 - 27
+UToTrtw - SIoXcPBliLTurGh - pqtVXidrlXfATuPveos : 9 - 24 - 26
+pqtVXidrlXfATuPveos - Hcmeh - aOgvkHPkUa : 4 - 27 - 17
+aOgvkHPkUa - Hcmeh - UToTrtw : 26 - 15 - 10
+aOgvkHPkUa - UToTrtw - pqtVXidrlXfATuPveos : 29 - 2 - 23
+SIoXcPBliLTurGh - FAWzilCfXKsdH - pqtVXidrlXfATuPveos : 34 - 35 - 35

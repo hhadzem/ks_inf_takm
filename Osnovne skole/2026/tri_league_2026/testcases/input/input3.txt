@@ -1,0 +1,16 @@
+5
+ROSaVNpxzOE
+TRwxkbosCCskXBUv
+WpqFxE
+yYghbbQ
+zXfOlPcFBLPNCETy
+9
+ROSaVNpxzOE - WpqFxE - zXfOlPcFBLPNCETy : 24 - 11 - 18
+ROSaVNpxzOE - yYghbbQ - zXfOlPcFBLPNCETy : 13 - 2 - 4
+ROSaVNpxzOE - TRwxkbosCCskXBUv - WpqFxE : 3 - 6 - 7
+WpqFxE - ROSaVNpxzOE - zXfOlPcFBLPNCETy : 17 - 21 - 18
+yYghbbQ - TRwxkbosCCskXBUv - zXfOlPcFBLPNCETy : 4 - 13 - 19
+zXfOlPcFBLPNCETy - ROSaVNpxzOE - yYghbbQ : 22 - 16 - 6
+yYghbbQ - TRwxkbosCCskXBUv - WpqFxE : 7 - 2 - 6
+yYghbbQ - WpqFxE - zXfOlPcFBLPNCETy : 25 - 12 - 17
+TRwxkbosCCskXBUv - WpqFxE - yYghbbQ : 11 - 13 - 10

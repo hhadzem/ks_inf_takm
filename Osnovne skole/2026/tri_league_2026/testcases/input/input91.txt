@@ -1,0 +1,93 @@
+11
+InMpQFbiYM
+JgeNMzaOKbbRnMW
+PXLcAnqOqh
+SEvSOnQN
+c
+griQTVgfqVhhwSTVOA
+jhOjT
+kArHtFfxARnPSQA
+qsFoRNUypwtgIPtOQCwc
+tFvJeEbBfjEuCPnF
+wYlQ
+80
+InMpQFbiYM - JgeNMzaOKbbRnMW - qsFoRNUypwtgIPtOQCwc : 499 - 191 - 141
+griQTVgfqVhhwSTVOA - SEvSOnQN - tFvJeEbBfjEuCPnF : 189 - 331 - 235
+SEvSOnQN - InMpQFbiYM - kArHtFfxARnPSQA : 327 - 344 - 490
+tFvJeEbBfjEuCPnF - kArHtFfxARnPSQA - wYlQ : 433 - 323 - 437
+c - jhOjT - tFvJeEbBfjEuCPnF : 291 - 384 - 358
+tFvJeEbBfjEuCPnF - InMpQFbiYM - wYlQ : 494 - 200 - 8
+qsFoRNUypwtgIPtOQCwc - PXLcAnqOqh - SEvSOnQN : 483 - 430 - 367
+SEvSOnQN - PXLcAnqOqh - jhOjT : 14 - 60 - 10
+qsFoRNUypwtgIPtOQCwc - JgeNMzaOKbbRnMW - kArHtFfxARnPSQA : 354 - 31 - 474
+PXLcAnqOqh - JgeNMzaOKbbRnMW - c : 315 - 350 - 306
+qsFoRNUypwtgIPtOQCwc - PXLcAnqOqh - griQTVgfqVhhwSTVOA : 139 - 129 - 108
+c - PXLcAnqOqh - SEvSOnQN : 341 - 354 - 350
+c - InMpQFbiYM - jhOjT : 413 - 57 - 153
+qsFoRNUypwtgIPtOQCwc - PXLcAnqOqh - tFvJeEbBfjEuCPnF : 228 - 191 - 224
+SEvSOnQN - JgeNMzaOKbbRnMW - griQTVgfqVhhwSTVOA : 280 - 340 - 169
+c - PXLcAnqOqh - kArHtFfxARnPSQA : 211 - 23 - 426
+PXLcAnqOqh - jhOjT - wYlQ : 138 - 139 - 178
+kArHtFfxARnPSQA - InMpQFbiYM - griQTVgfqVhhwSTVOA : 152 - 181 - 201
+PXLcAnqOqh - c - wYlQ : 167 - 13 - 178
+griQTVgfqVhhwSTVOA - c - jhOjT : 315 - 424 - 123
+jhOjT - PXLcAnqOqh - griQTVgfqVhhwSTVOA : 419 - 375 - 176
+jhOjT - PXLcAnqOqh - qsFoRNUypwtgIPtOQCwc : 117 - 205 - 307
+tFvJeEbBfjEuCPnF - InMpQFbiYM - PXLcAnqOqh : 139 - 256 - 45
+SEvSOnQN - JgeNMzaOKbbRnMW - qsFoRNUypwtgIPtOQCwc : 438 - 137 - 348
+tFvJeEbBfjEuCPnF - SEvSOnQN - c : 35 - 208 - 45
+c - griQTVgfqVhhwSTVOA - tFvJeEbBfjEuCPnF : 173 - 308 - 85
+wYlQ - SEvSOnQN - tFvJeEbBfjEuCPnF : 292 - 169 - 297
+jhOjT - InMpQFbiYM - griQTVgfqVhhwSTVOA : 360 - 386 - 491
+JgeNMzaOKbbRnMW - qsFoRNUypwtgIPtOQCwc - wYlQ : 106 - 171 - 218
+griQTVgfqVhhwSTVOA - PXLcAnqOqh - wYlQ : 29 - 8 - 24
+jhOjT - InMpQFbiYM - tFvJeEbBfjEuCPnF : 141 - 241 - 141
+kArHtFfxARnPSQA - JgeNMzaOKbbRnMW - SEvSOnQN : 179 - 487 - 439
+griQTVgfqVhhwSTVOA - JgeNMzaOKbbRnMW - qsFoRNUypwtgIPtOQCwc : 168 - 304 - 340
+tFvJeEbBfjEuCPnF - SEvSOnQN - jhOjT : 306 - 299 - 319
+c - SEvSOnQN - kArHtFfxARnPSQA : 21 - 74 - 108
+JgeNMzaOKbbRnMW - PXLcAnqOqh - tFvJeEbBfjEuCPnF : 496 - 166 - 490
+tFvJeEbBfjEuCPnF - PXLcAnqOqh - c : 262 - 293 - 322
+SEvSOnQN - JgeNMzaOKbbRnMW - c : 62 - 119 - 94
+qsFoRNUypwtgIPtOQCwc - SEvSOnQN - tFvJeEbBfjEuCPnF : 120 - 221 - 449
+JgeNMzaOKbbRnMW - PXLcAnqOqh - c : 300 - 189 - 213
+qsFoRNUypwtgIPtOQCwc - JgeNMzaOKbbRnMW - PXLcAnqOqh : 84 - 270 - 182
+SEvSOnQN - PXLcAnqOqh - griQTVgfqVhhwSTVOA : 98 - 119 - 94
+c - PXLcAnqOqh - griQTVgfqVhhwSTVOA : 130 - 36 - 15
+griQTVgfqVhhwSTVOA - JgeNMzaOKbbRnMW - c : 166 - 267 - 70
+wYlQ - c - jhOjT : 375 - 180 - 467
+c - InMpQFbiYM - PXLcAnqOqh : 436 - 407 - 381
+qsFoRNUypwtgIPtOQCwc - SEvSOnQN - jhOjT : 96 - 271 - 16
+qsFoRNUypwtgIPtOQCwc - c - griQTVgfqVhhwSTVOA : 197 - 287 - 40
+PXLcAnqOqh - SEvSOnQN - griQTVgfqVhhwSTVOA : 20 - 269 - 428
+kArHtFfxARnPSQA - tFvJeEbBfjEuCPnF - wYlQ : 151 - 126 - 57
+kArHtFfxARnPSQA - c - qsFoRNUypwtgIPtOQCwc : 256 - 484 - 353
+PXLcAnqOqh - qsFoRNUypwtgIPtOQCwc - wYlQ : 160 - 328 - 218
+qsFoRNUypwtgIPtOQCwc - jhOjT - kArHtFfxARnPSQA : 330 - 46 - 419
+JgeNMzaOKbbRnMW - c - jhOjT : 294 - 419 - 363
+qsFoRNUypwtgIPtOQCwc - c - wYlQ : 5 - 4 - 6
+griQTVgfqVhhwSTVOA - kArHtFfxARnPSQA - qsFoRNUypwtgIPtOQCwc : 326 - 406 - 264
+griQTVgfqVhhwSTVOA - PXLcAnqOqh - tFvJeEbBfjEuCPnF : 35 - 399 - 373
+JgeNMzaOKbbRnMW - SEvSOnQN - c : 336 - 221 - 329
+SEvSOnQN - InMpQFbiYM - griQTVgfqVhhwSTVOA : 108 - 376 - 227
+jhOjT - griQTVgfqVhhwSTVOA - wYlQ : 241 - 490 - 114
+InMpQFbiYM - SEvSOnQN - c : 123 - 137 - 430
+kArHtFfxARnPSQA - PXLcAnqOqh - wYlQ : 268 - 236 - 372
+griQTVgfqVhhwSTVOA - JgeNMzaOKbbRnMW - kArHtFfxARnPSQA : 417 - 418 - 433
+PXLcAnqOqh - kArHtFfxARnPSQA - tFvJeEbBfjEuCPnF : 81 - 56 - 112
+PXLcAnqOqh - JgeNMzaOKbbRnMW - wYlQ : 134 - 311 - 231
+wYlQ - c - tFvJeEbBfjEuCPnF : 298 - 301 - 299
+JgeNMzaOKbbRnMW - c - qsFoRNUypwtgIPtOQCwc : 438 - 6 - 372
+JgeNMzaOKbbRnMW - SEvSOnQN - wYlQ : 347 - 466 - 392
+qsFoRNUypwtgIPtOQCwc - SEvSOnQN - kArHtFfxARnPSQA : 340 - 375 - 220
+kArHtFfxARnPSQA - InMpQFbiYM - JgeNMzaOKbbRnMW : 458 - 105 - 242
+qsFoRNUypwtgIPtOQCwc - JgeNMzaOKbbRnMW - SEvSOnQN : 58 - 297 - 270
+c - PXLcAnqOqh - qsFoRNUypwtgIPtOQCwc : 260 - 264 - 480
+kArHtFfxARnPSQA - JgeNMzaOKbbRnMW - jhOjT : 150 - 195 - 317
+jhOjT - kArHtFfxARnPSQA - tFvJeEbBfjEuCPnF : 170 - 430 - 58
+InMpQFbiYM - JgeNMzaOKbbRnMW - kArHtFfxARnPSQA : 6 - 5 - 7
+SEvSOnQN - PXLcAnqOqh - tFvJeEbBfjEuCPnF : 268 - 409 - 172
+SEvSOnQN - kArHtFfxARnPSQA - qsFoRNUypwtgIPtOQCwc : 432 - 352 - 414
+c - PXLcAnqOqh - wYlQ : 30 - 163 - 446
+InMpQFbiYM - jhOjT - tFvJeEbBfjEuCPnF : 13 - 270 - 348
+InMpQFbiYM - kArHtFfxARnPSQA - tFvJeEbBfjEuCPnF : 363 - 499 - 299

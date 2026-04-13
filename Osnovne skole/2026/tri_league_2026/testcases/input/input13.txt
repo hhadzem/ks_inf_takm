@@ -1,0 +1,17 @@
+6
+BzcntjMqfcPbTSyqN
+GxqCbU
+JcByThK
+XUBklxUKpMZmo
+nYGCZuzOYy
+udMvIxKsfwrssNnvo
+9
+GxqCbU - BzcntjMqfcPbTSyqN - JcByThK : 21 - 0 - 24
+nYGCZuzOYy - GxqCbU - udMvIxKsfwrssNnvo : 40 - 45 - 41
+udMvIxKsfwrssNnvo - BzcntjMqfcPbTSyqN - nYGCZuzOYy : 35 - 15 - 12
+nYGCZuzOYy - JcByThK - XUBklxUKpMZmo : 6 - 19 - 27
+JcByThK - GxqCbU - nYGCZuzOYy : 3 - 10 - 9
+GxqCbU - JcByThK - nYGCZuzOYy : 35 - 44 - 30
+GxqCbU - JcByThK - XUBklxUKpMZmo : 46 - 43 - 44
+JcByThK - XUBklxUKpMZmo - udMvIxKsfwrssNnvo : 23 - 26 - 18
+JcByThK - BzcntjMqfcPbTSyqN - XUBklxUKpMZmo : 7 - 23 - 13

@@ -1,0 +1,49 @@
+7
+FWItonQsdNCNdrBCEDfl
+LYupXHiHbnPQk
+TZLlEW
+YOZPhYZDMIJoFBWhANv
+luTQ
+qHhEfDsj
+vYaKkKhRRnFD
+40
+luTQ - FWItonQsdNCNdrBCEDfl - TZLlEW : 36 - 36 - 16
+TZLlEW - luTQ - vYaKkKhRRnFD : 7 - 35 - 34
+LYupXHiHbnPQk - FWItonQsdNCNdrBCEDfl - TZLlEW : 31 - 29 - 6
+luTQ - qHhEfDsj - vYaKkKhRRnFD : 21 - 20 - 21
+FWItonQsdNCNdrBCEDfl - LYupXHiHbnPQk - vYaKkKhRRnFD : 24 - 24 - 23
+LYupXHiHbnPQk - TZLlEW - YOZPhYZDMIJoFBWhANv : 16 - 7 - 10
+LYupXHiHbnPQk - TZLlEW - luTQ : 38 - 15 - 38
+luTQ - TZLlEW - qHhEfDsj : 5 - 3 - 5
+YOZPhYZDMIJoFBWhANv - qHhEfDsj - vYaKkKhRRnFD : 1 - 32 - 8
+FWItonQsdNCNdrBCEDfl - LYupXHiHbnPQk - luTQ : 23 - 10 - 23
+YOZPhYZDMIJoFBWhANv - TZLlEW - qHhEfDsj : 24 - 31 - 31
+YOZPhYZDMIJoFBWhANv - LYupXHiHbnPQk - qHhEfDsj : 9 - 9 - 6
+TZLlEW - LYupXHiHbnPQk - vYaKkKhRRnFD : 16 - 21 - 28
+vYaKkKhRRnFD - FWItonQsdNCNdrBCEDfl - qHhEfDsj : 2 - 21 - 21
+FWItonQsdNCNdrBCEDfl - luTQ - vYaKkKhRRnFD : 28 - 27 - 12
+qHhEfDsj - YOZPhYZDMIJoFBWhANv - vYaKkKhRRnFD : 23 - 16 - 4
+FWItonQsdNCNdrBCEDfl - TZLlEW - YOZPhYZDMIJoFBWhANv : 19 - 19 - 4
+LYupXHiHbnPQk - FWItonQsdNCNdrBCEDfl - qHhEfDsj : 35 - 35 - 7
+TZLlEW - YOZPhYZDMIJoFBWhANv - vYaKkKhRRnFD : 40 - 30 - 29
+vYaKkKhRRnFD - YOZPhYZDMIJoFBWhANv - qHhEfDsj : 31 - 38 - 9
+YOZPhYZDMIJoFBWhANv - FWItonQsdNCNdrBCEDfl - TZLlEW : 36 - 18 - 12
+luTQ - FWItonQsdNCNdrBCEDfl - qHhEfDsj : 10 - 10 - 0
+qHhEfDsj - luTQ - vYaKkKhRRnFD : 40 - 40 - 15
+YOZPhYZDMIJoFBWhANv - TZLlEW - luTQ : 2 - 0 - 17
+qHhEfDsj - LYupXHiHbnPQk - YOZPhYZDMIJoFBWhANv : 17 - 11 - 36
+TZLlEW - LYupXHiHbnPQk - YOZPhYZDMIJoFBWhANv : 2 - 2 - 1
+FWItonQsdNCNdrBCEDfl - TZLlEW - qHhEfDsj : 35 - 6 - 35
+vYaKkKhRRnFD - FWItonQsdNCNdrBCEDfl - TZLlEW : 39 - 0 - 38
+FWItonQsdNCNdrBCEDfl - LYupXHiHbnPQk - TZLlEW : 0 - 1 - 1
+TZLlEW - FWItonQsdNCNdrBCEDfl - luTQ : 10 - 10 - 2
+luTQ - LYupXHiHbnPQk - qHhEfDsj : 0 - 1 - 1
+TZLlEW - LYupXHiHbnPQk - qHhEfDsj : 25 - 16 - 3
+FWItonQsdNCNdrBCEDfl - TZLlEW - luTQ : 20 - 31 - 5
+YOZPhYZDMIJoFBWhANv - FWItonQsdNCNdrBCEDfl - LYupXHiHbnPQk : 8 - 27 - 27
+vYaKkKhRRnFD - TZLlEW - qHhEfDsj : 1 - 1 - 0
+YOZPhYZDMIJoFBWhANv - LYupXHiHbnPQk - TZLlEW : 34 - 40 - 9
+LYupXHiHbnPQk - FWItonQsdNCNdrBCEDfl - vYaKkKhRRnFD : 11 - 8 - 11
+luTQ - TZLlEW - YOZPhYZDMIJoFBWhANv : 20 - 4 - 20
+luTQ - FWItonQsdNCNdrBCEDfl - vYaKkKhRRnFD : 28 - 28 - 15
+TZLlEW - FWItonQsdNCNdrBCEDfl - vYaKkKhRRnFD : 34 - 34 - 1

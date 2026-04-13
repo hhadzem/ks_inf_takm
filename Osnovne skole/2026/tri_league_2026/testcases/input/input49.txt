@@ -1,0 +1,56 @@
+17
+CCENtFBuJoSAF
+GyKQ
+NiCrEwkqElRPGy
+QGpSXLEIZVDHf
+QLCe
+W
+XaSYuGgTbvfvKqb
+c
+fNdQpvcSrjS
+fqltuleIKFKbn
+gfeYpI
+hMjlbsUkslf
+jfBNECggoqFSmIGY
+qLGIxLiDVVJbJIHqfOrE
+skZdTFBtBqoy
+twtysjMxifYACoeQRXFx
+utITYSG
+37
+fNdQpvcSrjS - CCENtFBuJoSAF - jfBNECggoqFSmIGY : 29 - 14 - 14
+CCENtFBuJoSAF - jfBNECggoqFSmIGY - twtysjMxifYACoeQRXFx : 3 - 95 - 3
+twtysjMxifYACoeQRXFx - W - gfeYpI : 1 - 1 - 24
+twtysjMxifYACoeQRXFx - QLCe - gfeYpI : 120 - 21 - 21
+gfeYpI - fNdQpvcSrjS - hMjlbsUkslf : 79 - 0 - 0
+qLGIxLiDVVJbJIHqfOrE - W - hMjlbsUkslf : 8 - 30 - 8
+skZdTFBtBqoy - CCENtFBuJoSAF - QGpSXLEIZVDHf : 9 - 9 - 11
+W - QGpSXLEIZVDHf - c : 28 - 41 - 28
+fqltuleIKFKbn - CCENtFBuJoSAF - skZdTFBtBqoy : 6 - 6 - 5
+fNdQpvcSrjS - QLCe - fqltuleIKFKbn : 43 - 34 - 34
+twtysjMxifYACoeQRXFx - W - utITYSG : 58 - 70 - 70
+skZdTFBtBqoy - QLCe - jfBNECggoqFSmIGY : 8 - 1 - 8
+hMjlbsUkslf - CCENtFBuJoSAF - gfeYpI : 93 - 15 - 15
+gfeYpI - c - fNdQpvcSrjS : 5 - 5 - 92
+GyKQ - qLGIxLiDVVJbJIHqfOrE - twtysjMxifYACoeQRXFx : 119 - 30 - 30
+c - W - utITYSG : 120 - 120 - 54
+GyKQ - NiCrEwkqElRPGy - gfeYpI : 28 - 28 - 60
+jfBNECggoqFSmIGY - QGpSXLEIZVDHf - fNdQpvcSrjS : 40 - 6 - 6
+QGpSXLEIZVDHf - jfBNECggoqFSmIGY - twtysjMxifYACoeQRXFx : 12 - 43 - 12
+twtysjMxifYACoeQRXFx - XaSYuGgTbvfvKqb - gfeYpI : 44 - 21 - 44
+qLGIxLiDVVJbJIHqfOrE - gfeYpI - skZdTFBtBqoy : 95 - 72 - 95
+XaSYuGgTbvfvKqb - CCENtFBuJoSAF - utITYSG : 91 - 91 - 68
+GyKQ - NiCrEwkqElRPGy - QLCe : 62 - 108 - 62
+NiCrEwkqElRPGy - gfeYpI - utITYSG : 12 - 12 - 29
+gfeYpI - fNdQpvcSrjS - twtysjMxifYACoeQRXFx : 71 - 71 - 76
+skZdTFBtBqoy - QGpSXLEIZVDHf - c : 39 - 37 - 37
+c - CCENtFBuJoSAF - QLCe : 26 - 26 - 68
+c - fNdQpvcSrjS - jfBNECggoqFSmIGY : 12 - 12 - 9
+fNdQpvcSrjS - NiCrEwkqElRPGy - fqltuleIKFKbn : 115 - 62 - 62
+QLCe - XaSYuGgTbvfvKqb - utITYSG : 30 - 30 - 63
+utITYSG - fqltuleIKFKbn - gfeYpI : 50 - 21 - 50
+jfBNECggoqFSmIGY - NiCrEwkqElRPGy - gfeYpI : 10 - 10 - 0
+qLGIxLiDVVJbJIHqfOrE - W - twtysjMxifYACoeQRXFx : 21 - 21 - 10
+utITYSG - fNdQpvcSrjS - jfBNECggoqFSmIGY : 1 - 0 - 1
+c - QLCe - W : 36 - 12 - 36
+QLCe - W - XaSYuGgTbvfvKqb : 25 - 117 - 25
+W - GyKQ - QLCe : 47 - 47 - 44

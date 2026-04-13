@@ -1,0 +1,50 @@
+8
+Bd
+Nuqf
+OZdM
+OcatmqpEodr
+VaVsjC
+dwhruMFuwm
+eYiCAd
+n
+40
+Bd - OcatmqpEodr - eYiCAd : 33 - 29 - 33
+OcatmqpEodr - OZdM - eYiCAd : 11 - 31 - 31
+OZdM - OcatmqpEodr - dwhruMFuwm : 36 - 36 - 18
+eYiCAd - Bd - Nuqf : 3 - 9 - 9
+Bd - dwhruMFuwm - eYiCAd : 18 - 15 - 18
+OZdM - Nuqf - VaVsjC : 5 - 2 - 17
+dwhruMFuwm - OZdM - n : 20 - 3 - 0
+OcatmqpEodr - VaVsjC - dwhruMFuwm : 23 - 31 - 7
+VaVsjC - Bd - dwhruMFuwm : 0 - 2 - 2
+Nuqf - OcatmqpEodr - VaVsjC : 15 - 17 - 32
+eYiCAd - Nuqf - VaVsjC : 13 - 13 - 11
+Nuqf - OZdM - OcatmqpEodr : 2 - 28 - 11
+Bd - Nuqf - OZdM : 8 - 8 - 6
+VaVsjC - Nuqf - n : 40 - 40 - 26
+VaVsjC - Bd - eYiCAd : 10 - 10 - 8
+Nuqf - OZdM - VaVsjC : 37 - 24 - 37
+Bd - Nuqf - VaVsjC : 21 - 13 - 21
+OZdM - Bd - OcatmqpEodr : 26 - 26 - 25
+Nuqf - Bd - OcatmqpEodr : 29 - 18 - 11
+n - Bd - OcatmqpEodr : 0 - 34 - 34
+VaVsjC - Nuqf - dwhruMFuwm : 3 - 1 - 28
+n - OZdM - dwhruMFuwm : 28 - 9 - 21
+OZdM - OcatmqpEodr - eYiCAd : 11 - 11 - 10
+n - Bd - OZdM : 9 - 30 - 19
+dwhruMFuwm - Nuqf - VaVsjC : 12 - 31 - 17
+eYiCAd - OZdM - n : 16 - 22 - 29
+eYiCAd - Bd - VaVsjC : 7 - 7 - 4
+VaVsjC - OZdM - n : 15 - 25 - 15
+dwhruMFuwm - Nuqf - eYiCAd : 16 - 25 - 30
+dwhruMFuwm - OcatmqpEodr - n : 1 - 13 - 6
+n - Bd - Nuqf : 6 - 20 - 24
+OZdM - Nuqf - OcatmqpEodr : 19 - 38 - 25
+OZdM - VaVsjC - eYiCAd : 1 - 0 - 1
+n - Nuqf - OcatmqpEodr : 22 - 22 - 5
+dwhruMFuwm - VaVsjC - eYiCAd : 13 - 37 - 23
+Bd - VaVsjC - eYiCAd : 19 - 19 - 18
+OcatmqpEodr - OZdM - n : 0 - 4 - 6
+dwhruMFuwm - OcatmqpEodr - eYiCAd : 3 - 3 - 1
+VaVsjC - dwhruMFuwm - n : 7 - 27 - 27
+OZdM - Nuqf - n : 31 - 28 - 31

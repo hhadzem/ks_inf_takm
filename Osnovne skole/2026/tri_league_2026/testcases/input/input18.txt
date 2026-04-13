@@ -1,0 +1,46 @@
+6
+FVdoPCEUhMA
+HvmdTXFadpDTLNQAZclo
+PcUJGr
+brGQDU
+dogCuwkoVaIlFtmcHgm
+sgE
+38
+FVdoPCEUhMA - HvmdTXFadpDTLNQAZclo - dogCuwkoVaIlFtmcHgm : 28 - 37 - 19
+HvmdTXFadpDTLNQAZclo - FVdoPCEUhMA - brGQDU : 33 - 6 - 7
+dogCuwkoVaIlFtmcHgm - FVdoPCEUhMA - HvmdTXFadpDTLNQAZclo : 4 - 9 - 11
+HvmdTXFadpDTLNQAZclo - brGQDU - dogCuwkoVaIlFtmcHgm : 21 - 19 - 5
+HvmdTXFadpDTLNQAZclo - PcUJGr - dogCuwkoVaIlFtmcHgm : 32 - 25 - 14
+sgE - HvmdTXFadpDTLNQAZclo - brGQDU : 4 - 0 - 4
+dogCuwkoVaIlFtmcHgm - PcUJGr - brGQDU : 27 - 27 - 7
+brGQDU - FVdoPCEUhMA - HvmdTXFadpDTLNQAZclo : 27 - 3 - 30
+PcUJGr - FVdoPCEUhMA - brGQDU : 14 - 14 - 3
+dogCuwkoVaIlFtmcHgm - PcUJGr - sgE : 29 - 9 - 39
+brGQDU - HvmdTXFadpDTLNQAZclo - sgE : 25 - 15 - 6
+HvmdTXFadpDTLNQAZclo - PcUJGr - brGQDU : 21 - 32 - 19
+sgE - PcUJGr - brGQDU : 31 - 27 - 33
+HvmdTXFadpDTLNQAZclo - FVdoPCEUhMA - PcUJGr : 1 - 10 - 10
+PcUJGr - FVdoPCEUhMA - sgE : 34 - 3 - 18
+FVdoPCEUhMA - PcUJGr - dogCuwkoVaIlFtmcHgm : 19 - 13 - 34
+FVdoPCEUhMA - dogCuwkoVaIlFtmcHgm - sgE : 1 - 0 - 1
+dogCuwkoVaIlFtmcHgm - FVdoPCEUhMA - sgE : 2 - 29 - 5
+PcUJGr - brGQDU - sgE : 5 - 7 - 7
+dogCuwkoVaIlFtmcHgm - brGQDU - sgE : 22 - 26 - 6
+PcUJGr - HvmdTXFadpDTLNQAZclo - sgE : 6 - 21 - 40
+FVdoPCEUhMA - brGQDU - sgE : 21 - 21 - 10
+HvmdTXFadpDTLNQAZclo - FVdoPCEUhMA - sgE : 22 - 38 - 29
+HvmdTXFadpDTLNQAZclo - FVdoPCEUhMA - dogCuwkoVaIlFtmcHgm : 0 - 5 - 37
+HvmdTXFadpDTLNQAZclo - brGQDU - sgE : 23 - 9 - 17
+PcUJGr - HvmdTXFadpDTLNQAZclo - dogCuwkoVaIlFtmcHgm : 5 - 21 - 40
+dogCuwkoVaIlFtmcHgm - HvmdTXFadpDTLNQAZclo - PcUJGr : 40 - 31 - 40
+FVdoPCEUhMA - HvmdTXFadpDTLNQAZclo - PcUJGr : 13 - 0 - 12
+FVdoPCEUhMA - PcUJGr - sgE : 23 - 9 - 23
+HvmdTXFadpDTLNQAZclo - dogCuwkoVaIlFtmcHgm - sgE : 29 - 22 - 29
+PcUJGr - FVdoPCEUhMA - HvmdTXFadpDTLNQAZclo : 12 - 21 - 26
+PcUJGr - brGQDU - dogCuwkoVaIlFtmcHgm : 38 - 15 - 19
+dogCuwkoVaIlFtmcHgm - HvmdTXFadpDTLNQAZclo - sgE : 29 - 29 - 22
+dogCuwkoVaIlFtmcHgm - HvmdTXFadpDTLNQAZclo - brGQDU : 35 - 16 - 7
+brGQDU - HvmdTXFadpDTLNQAZclo - PcUJGr : 19 - 7 - 31
+brGQDU - PcUJGr - sgE : 27 - 10 - 39
+sgE - FVdoPCEUhMA - brGQDU : 1 - 26 - 26
+HvmdTXFadpDTLNQAZclo - PcUJGr - sgE : 0 - 3 - 3

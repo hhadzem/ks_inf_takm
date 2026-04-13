@@ -1,0 +1,50 @@
+8
+CVpgBFKB
+KAPayCAKzQxhjCzRhng
+WDHACxHed
+WNrVKeCqShHgS
+coLgJrkRhcWTnyN
+dRdew
+hoxDSt
+qNirLHX
+40
+KAPayCAKzQxhjCzRhng - CVpgBFKB - coLgJrkRhcWTnyN : 5 - 29 - 5
+KAPayCAKzQxhjCzRhng - CVpgBFKB - hoxDSt : 16 - 17 - 31
+KAPayCAKzQxhjCzRhng - coLgJrkRhcWTnyN - qNirLHX : 17 - 2 - 2
+qNirLHX - KAPayCAKzQxhjCzRhng - hoxDSt : 2 - 2 - 33
+WNrVKeCqShHgS - WDHACxHed - hoxDSt : 0 - 29 - 17
+KAPayCAKzQxhjCzRhng - dRdew - qNirLHX : 12 - 12 - 34
+WDHACxHed - dRdew - hoxDSt : 13 - 13 - 36
+WDHACxHed - CVpgBFKB - dRdew : 19 - 20 - 15
+coLgJrkRhcWTnyN - KAPayCAKzQxhjCzRhng - qNirLHX : 19 - 17 - 17
+WDHACxHed - KAPayCAKzQxhjCzRhng - dRdew : 0 - 1 - 0
+CVpgBFKB - coLgJrkRhcWTnyN - hoxDSt : 0 - 27 - 17
+qNirLHX - CVpgBFKB - coLgJrkRhcWTnyN : 18 - 5 - 5
+WNrVKeCqShHgS - CVpgBFKB - qNirLHX : 15 - 2 - 39
+hoxDSt - WDHACxHed - dRdew : 22 - 13 - 27
+KAPayCAKzQxhjCzRhng - WNrVKeCqShHgS - dRdew : 25 - 17 - 12
+dRdew - coLgJrkRhcWTnyN - hoxDSt : 40 - 1 - 22
+coLgJrkRhcWTnyN - CVpgBFKB - WDHACxHed : 6 - 6 - 16
+hoxDSt - KAPayCAKzQxhjCzRhng - dRdew : 30 - 38 - 22
+qNirLHX - WNrVKeCqShHgS - coLgJrkRhcWTnyN : 11 - 11 - 32
+hoxDSt - WDHACxHed - coLgJrkRhcWTnyN : 1 - 8 - 1
+coLgJrkRhcWTnyN - WDHACxHed - WNrVKeCqShHgS : 19 - 9 - 25
+WNrVKeCqShHgS - hoxDSt - qNirLHX : 0 - 0 - 16
+dRdew - WDHACxHed - coLgJrkRhcWTnyN : 10 - 10 - 16
+qNirLHX - CVpgBFKB - hoxDSt : 3 - 3 - 34
+coLgJrkRhcWTnyN - WNrVKeCqShHgS - hoxDSt : 3 - 0 - 0
+dRdew - WNrVKeCqShHgS - qNirLHX : 8 - 22 - 8
+KAPayCAKzQxhjCzRhng - WDHACxHed - dRdew : 3 - 3 - 32
+qNirLHX - CVpgBFKB - WNrVKeCqShHgS : 5 - 4 - 4
+WNrVKeCqShHgS - coLgJrkRhcWTnyN - qNirLHX : 8 - 12 - 16
+qNirLHX - WDHACxHed - dRdew : 2 - 26 - 0
+CVpgBFKB - KAPayCAKzQxhjCzRhng - dRdew : 15 - 15 - 16
+CVpgBFKB - KAPayCAKzQxhjCzRhng - qNirLHX : 1 - 1 - 2
+hoxDSt - KAPayCAKzQxhjCzRhng - WDHACxHed : 36 - 1 - 8
+hoxDSt - CVpgBFKB - qNirLHX : 9 - 17 - 9
+hoxDSt - KAPayCAKzQxhjCzRhng - WNrVKeCqShHgS : 7 - 10 - 35
+dRdew - hoxDSt - qNirLHX : 23 - 5 - 28
+CVpgBFKB - dRdew - qNirLHX : 26 - 21 - 21
+qNirLHX - WNrVKeCqShHgS - hoxDSt : 9 - 36 - 38
+dRdew - KAPayCAKzQxhjCzRhng - qNirLHX : 28 - 38 - 28
+qNirLHX - coLgJrkRhcWTnyN - dRdew : 29 - 10 - 35

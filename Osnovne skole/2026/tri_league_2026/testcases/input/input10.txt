@@ -1,0 +1,16 @@
+4
+FBGHumZpVTsLp
+JKkBxJ
+KbbwlhaiBGThauB
+iPCW
+10
+FBGHumZpVTsLp - JKkBxJ - KbbwlhaiBGThauB : 8 - 12 - 6
+iPCW - FBGHumZpVTsLp - JKkBxJ : 26 - 6 - 19
+FBGHumZpVTsLp - JKkBxJ - iPCW : 30 - 40 - 31
+JKkBxJ - KbbwlhaiBGThauB - iPCW : 25 - 24 - 26
+iPCW - JKkBxJ - KbbwlhaiBGThauB : 15 - 27 - 17
+KbbwlhaiBGThauB - JKkBxJ - iPCW : 19 - 26 - 14
+FBGHumZpVTsLp - KbbwlhaiBGThauB - iPCW : 5 - 7 - 14
+KbbwlhaiBGThauB - FBGHumZpVTsLp - JKkBxJ : 2 - 14 - 1
+KbbwlhaiBGThauB - FBGHumZpVTsLp - iPCW : 1 - 16 - 3
+JKkBxJ - FBGHumZpVTsLp - iPCW : 5 - 22 - 30
